@@ -13,9 +13,18 @@
     * 电量优化
     * 存储优化
     * 适配方案
+    * APK全方位健身
   * [开源框架](yi-dong-jia-gou-shi/kai-yuan-kuang-jia.md)
     * [Glide图片框架](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/glidetu-pian-kuang-jia.md)
+    * [热修复框架](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/re-xiu-fu-kuang-jia.md)
+    * [Retrofit与OKhttp](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/retrofityu-okhttp.md)
+    * [jetpack框架](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/jetpackkuang-jia.md)
+    * [Dagger框架](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/daggerkuang-jia.md)
+    * 阿里百川Sophix框架
+    * [增量更新技术](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/zeng-liang-geng-xin.md)
   * [NDK模块开发](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa.md)
   * [微信小程序](yi-dong-jia-gou-shi/wei-xin-xiao-cheng-xu.md)
   * [Hybrid 开发与Flutter](yi-dong-jia-gou-shi/hybrid-kai-fa-yu-flutter.md)
+  * [Kotlin](yi-dong-jia-gou-shi/kotlin.md)
+  * [Android前沿技术](yi-dong-jia-gou-shi/androidqian-yan-ji-zhu.md)
 
