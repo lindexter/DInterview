@@ -9,7 +9,14 @@
       * [虚拟机](yi-dong-jia-gou-shi/ji-chu-ji-zhu/javayu-yan-jin-jie/xu-ni-ji.md)
   * [Android框架体系](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou.md)
     * [高级UI](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui.md)
+      * 事件分发机制
+      * 常用View
+      * 布局ViewGroup
+      * View渲染机制
+      * 自定义View
+    * 组件内核
     * [网络架构](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/wang-luo-jia-gou.md)
+    * 大型项目IPC
   * [移动全方面性能调优](yi-dong-jia-gou-shi/yi-dong-quan-fang-mian-xing-neng-diao-you.md)
     * [内存优化](yi-dong-jia-gou-shi/yi-dong-quan-fang-mian-xing-neng-diao-you/nei-cun-you-hua.md)
     * 电量优化
