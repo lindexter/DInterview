@@ -4,7 +4,9 @@
 * [工具](chang-yong-wang-zhan.md)
 * [移动架构师](yi-dong-jia-gou-shi.md)
   * [基础技术](yi-dong-jia-gou-shi/ji-chu-ji-zhu.md)
+    * [网络基础](yi-dong-jia-gou-shi/ji-chu-ji-zhu/wang-luo-ji-chu.md)
     * [Java语言进阶](yi-dong-jia-gou-shi/ji-chu-ji-zhu/javayu-yan-jin-jie.md)
+      * [虚拟机](yi-dong-jia-gou-shi/ji-chu-ji-zhu/javayu-yan-jin-jie/xu-ni-ji.md)
   * [Android框架体系](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou.md)
     * [高级UI](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui.md)
     * [网络架构](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/wang-luo-jia-gou.md)
@@ -27,4 +29,5 @@
   * [Hybrid 开发与Flutter](yi-dong-jia-gou-shi/hybrid-kai-fa-yu-flutter.md)
   * [Kotlin](yi-dong-jia-gou-shi/kotlin.md)
   * [Android前沿技术](yi-dong-jia-gou-shi/androidqian-yan-ji-zhu.md)
+  * [APP发布市场](yi-dong-jia-gou-shi/appfa-bu-shi-chang.md)
 
