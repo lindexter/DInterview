@@ -9,32 +9,35 @@
       * [虚拟机](yi-dong-jia-gou-shi/ji-chu-ji-zhu/javayu-yan-jin-jie/xu-ni-ji.md)
   * [Android框架体系](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou.md)
     * [高级UI](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui.md)
-      * 事件分发机制
-      * 常用View
-      * 布局ViewGroup
-      * View渲染机制
-      * 自定义View
-    * 组件内核
+      * [事件分发机制](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui/shi-jian-fen-fa-ji-zhi.md)
+      * [常用View](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui/chang-yong-view.md)
+      * [布局ViewGroup](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui/bu-ju-viewgroup.md)
+      * [View渲染机制](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui/viewxuan-ran-ji-zhi.md)
+      * [自定义View](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui/zi-ding-yi-view.md)
+    * [组件内核](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/zu-jian-nei-he.md)
     * [网络架构](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/wang-luo-jia-gou.md)
-    * 大型项目IPC
+    * [大型项目IPC](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/da-xing-xiang-mu-ipc.md)
   * [移动全方面性能调优](yi-dong-jia-gou-shi/yi-dong-quan-fang-mian-xing-neng-diao-you.md)
     * [内存优化](yi-dong-jia-gou-shi/yi-dong-quan-fang-mian-xing-neng-diao-you/nei-cun-you-hua.md)
-    * 电量优化
+    * [电量优化](yi-dong-jia-gou-shi/yi-dong-quan-fang-mian-xing-neng-diao-you/dian-liang-you-hua.md)
     * 存储优化
     * 适配方案
-    * APK全方位健身
+    * [APK全方位健身](yi-dong-jia-gou-shi/yi-dong-quan-fang-mian-xing-neng-diao-you/apkquan-fang-wei-jian-shen.md)
   * [开源框架](yi-dong-jia-gou-shi/kai-yuan-kuang-jia.md)
     * [Glide图片框架](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/glidetu-pian-kuang-jia.md)
     * [热修复框架](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/re-xiu-fu-kuang-jia.md)
     * [Retrofit与OKhttp](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/retrofityu-okhttp.md)
     * [jetpack框架](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/jetpackkuang-jia.md)
     * [Dagger框架](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/daggerkuang-jia.md)
-    * 阿里百川Sophix框架
+    * [阿里百川Sophix框架](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/a-li-bai-chuan-sophix-kuang-jia.md)
     * [增量更新技术](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/zeng-liang-geng-xin.md)
   * [NDK模块开发](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa.md)
+    * [C语言基础](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/cyu-yan-ji-chu.md)
+    * C++基础
   * [微信小程序](yi-dong-jia-gou-shi/wei-xin-xiao-cheng-xu.md)
   * [Hybrid 开发与Flutter](yi-dong-jia-gou-shi/hybrid-kai-fa-yu-flutter.md)
   * [Kotlin](yi-dong-jia-gou-shi/kotlin.md)
   * [Android前沿技术](yi-dong-jia-gou-shi/androidqian-yan-ji-zhu.md)
   * [APP发布市场](yi-dong-jia-gou-shi/appfa-bu-shi-chang.md)
+* 服务器后端开发
 
