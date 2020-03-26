@@ -5,6 +5,7 @@
   * [MacBook](tools/macbook.md)
     * [终端](tools/macbook/终端.md)
       * [修改终端提示符](tools/macbook/终端/修改终端的提示符.md)
+    * [常用软件](tools/macbook/常用软件.md)
 * [移动架构师](移动架构师.md)
   * [基础技术](yi-dong-jia-gou-shi/ji-chu-ji-zhu.md)
     * [网络基础](yi-dong-jia-gou-shi/ji-chu-ji-zhu/wang-luo-ji-chu.md)
