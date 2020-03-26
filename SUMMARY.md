@@ -4,7 +4,7 @@
 * [工具](tools/macbook.md)
   * [MacBook](tools/macbook.md)
     * [Mac修改终端的提示符](tools/macbook/修改终端的提示符.md)
-* [移动架构师](yi-dong-jia-gou-shi.md)
+* [移动架构师](移动架构师.md)
   * [基础技术](yi-dong-jia-gou-shi/ji-chu-ji-zhu.md)
     * [网络基础](yi-dong-jia-gou-shi/ji-chu-ji-zhu/wang-luo-ji-chu.md)
     * [Java语言进阶](yi-dong-jia-gou-shi/ji-chu-ji-zhu/javayu-yan-jin-jie.md)
