@@ -2,6 +2,8 @@
 
 * [介绍](README.md)
 * [工具](chang-yong-wang-zhan.md)
+  * [MacBook](chang-yong-wang-zhan/macbook.md)
+    * [Mac如何修改终端的提示符](chang-yong-wang-zhan/macbook/macru-he-xiu-gai-zhong-duan-de-ti-shi-fu.md)
 * [移动架构师](yi-dong-jia-gou-shi.md)
   * [基础技术](yi-dong-jia-gou-shi/ji-chu-ji-zhu.md)
     * [网络基础](yi-dong-jia-gou-shi/ji-chu-ji-zhu/wang-luo-ji-chu.md)
@@ -39,5 +41,5 @@
   * [Kotlin](yi-dong-jia-gou-shi/kotlin.md)
   * [Android前沿技术](yi-dong-jia-gou-shi/androidqian-yan-ji-zhu.md)
   * [APP发布市场](yi-dong-jia-gou-shi/appfa-bu-shi-chang.md)
-* 服务器后端开发
+* [服务器后端开发](fu-wu-qi-hou-duan-kai-fa.md)
 
