@@ -1,8 +1,11 @@
 # Summary
 
 * [介绍](README.md)
-* [工具](tools/macbook.md)
+* [工具](tools.md)
   * [MacBook](tools/macbook.md)
+    * [终端Terminal](tools/macbook/zhong-duan-terminal.md)
+    * 常用软件
+    * [终端](tools/macbook/zhong-duan.md)
     * [Mac修改终端的提示符](tools/macbook/修改终端的提示符.md)
 * [移动架构师](移动架构师.md)
   * [基础技术](yi-dong-jia-gou-shi/ji-chu-ji-zhu.md)
