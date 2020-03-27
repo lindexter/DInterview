@@ -8,7 +8,9 @@ gradle 实际上是一个通用的构建工具。它不限于构建 Android 应�
 
 > #### 环境变量配置
 
-#### 
+![](/assets/macbook-环境变量-gradle-4.png)
+
+![](/assets/gradle-环境变量-gradle-5.png)
 
 > #### Android Studio的gradle配置
 
@@ -20,5 +22,5 @@ gradle 实际上是一个通用的构建工具。它不限于构建 Android 应�
 
 一个android项目中，编译所用的gradle工具文件配置
 
-distributionUrl 决定了这个项目使用的gradle版本![](/assets/macbook-环境变量-gradle-1.png)
+distributionUrl 决定了这个项目使用的gradle版本![](/assets/macbook-环境变量-gradle-1.png)![](/assets/macbook-环境变量-gradle-2.png)
 
