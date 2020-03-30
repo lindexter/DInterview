@@ -1,4 +1,4 @@
-# gradle配置
+# gradle环境变量配置
 
 > #### 什么是gradle
 
