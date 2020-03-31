@@ -5,7 +5,7 @@
   * [MacBook](tools/macbook.md)
     * [终端](tools/macbook/终端.md)
       * [修改终端提示符](tools/macbook/终端/修改终端的提示符.md)
-      * [修改终端提示符颜色](tools/macbook/终端/修改终端的提示符颜色.md)
+      * [修改终端内容颜色](tools/macbook/终端/修改终端的提示符颜色.md)
     * [环境变量配置](tools/macbook/环境变量配置.md)
       * [gradle环境变量配置](tools/macbook/环境变量配置/gradle环境变量配置.md)
     * [常用软件](tools/macbook/常用软件.md)
