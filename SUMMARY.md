@@ -48,6 +48,7 @@
   * [微信小程序](yi-dong-jia-gou-shi/wei-xin-xiao-cheng-xu.md)
   * [Hybrid 开发与Flutter](yi-dong-jia-gou-shi/hybrid-kai-fa-yu-flutter.md)
   * [Kotlin](yi-dong-jia-gou-shi/kotlin.md)
+    * [基础语法](yi-dong-jia-gou-shi/kotlin/ji-chu-yu-fa.md)
   * [Android前沿技术](yi-dong-jia-gou-shi/androidqian-yan-ji-zhu.md)
   * [APP发布市场](yi-dong-jia-gou-shi/appfa-bu-shi-chang.md)
 * [服务器后端开发](服务器开发.md)
