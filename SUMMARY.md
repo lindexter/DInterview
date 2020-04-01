@@ -40,9 +40,10 @@
     * [Dagger框架](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/daggerkuang-jia.md)
     * [阿里百川Sophix框架](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/a-li-bai-chuan-sophix-kuang-jia.md)
     * [增量更新技术](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/zeng-liang-geng-xin.md)
+    * [推送集成](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/tui-song-ji-cheng.md)
   * [NDK模块开发](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa.md)
     * [C语言基础](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/cyu-yan-ji-chu.md)
-    * C++基础
+    * [C++基础](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/cji-chu.md)
     * [go语言开发](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/goyu-yan-kai-fa.md)
       * [安装go环境](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/goyu-yan-kai-fa/an-zhuang-go-mac.md)
       * [安装gomobile](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/goyu-yan-kai-fa/pei-zhi-gomobile.md)
