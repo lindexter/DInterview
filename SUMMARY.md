@@ -54,4 +54,7 @@
   * [Android前沿技术](yi-dong-jia-gou-shi/androidqian-yan-ji-zhu.md)
   * [APP发布市场](yi-dong-jia-gou-shi/appfa-bu-shi-chang.md)
 * [服务器后端开发](服务器开发.md)
+* [运维基础](yun-wei-gong-cheng-shi.md)
+  * [持续集成](yun-wei-gong-cheng-shi/chi-xu-ji-cheng.md)
+    * [Android Jenkins CI集成](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/android-jenkins-ciji-cheng.md)
 
