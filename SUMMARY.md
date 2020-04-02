@@ -62,7 +62,4 @@
 * [运维基础](yun-wei-gong-cheng-shi.md)
   * [持续集成](yun-wei-gong-cheng-shi/chi-xu-ji-cheng.md)
     * [Android Jenkins CI集成](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/android-jenkins-ciji-cheng.md)
-* [个人训练](ge-ren-xun-lian.md)
-  * [坚持不迟到](ge-ren-xun-lian/jian-chi-bu-chi-dao.md)
-  * [坚持健身](ge-ren-xun-lian/jian-chi-jian-shen.md)
 
