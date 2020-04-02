@@ -4,5 +4,5 @@
 
 My personal study notes, not make any maintenance and follow-up support, please understand.
 
-其中涉及任何环境或者工具的安装和教学，都是基于Mac的系统
+其中涉及任何环境或者工具的安装和教学，大部分基于Mac的系统
 
