@@ -55,8 +55,9 @@
   * [APP发布市场](yi-dong-jia-gou-shi/appfa-bu-shi-chang.md)
 * [服务器后端开发](服务器开发.md)
   * [环境部署](服务器开发/huan-jing-bu-shu.md)
-    * tomcat部署
-    * 数据库部署
+    * [tomcat部署](服务器开发/huan-jing-bu-shu/tomcatbu-shu.md)
+    * [数据库部署](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu.md)
+      * MySQL安装与部署
   * [Java后端开发](服务器开发/javahou-duan-kai-fa.md)
 * [运维基础](yun-wei-gong-cheng-shi.md)
   * [持续集成](yun-wei-gong-cheng-shi/chi-xu-ji-cheng.md)
