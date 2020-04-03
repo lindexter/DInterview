@@ -59,6 +59,7 @@
     * [数据库部署](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu.md)
       * MySQL安装与部署
   * [Java后端开发](服务器开发/javahou-duan-kai-fa.md)
+  * [SwaggerAPI集成](服务器开发/swaggerapiji-cheng.md)
 * [运维基础](运维基础.md)
   * [持续集成](yun-wei-gong-cheng-shi/chi-xu-ji-cheng.md)
     * [Android Jenkins CI集成](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/android-jenkins-ciji-cheng.md)
