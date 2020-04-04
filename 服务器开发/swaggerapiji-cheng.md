@@ -1,8 +1,25 @@
 # Swagger API 集成
+###开源的git地址
+[https://github.com/swagger-api](https://github.com/swagger-api)
+###配置pom.xml
+```xml
+<dependencies>
+		<!-- Swagger2 -->
+    <dependency>
+      <groupId>io.springfox</groupId>
+      <artifactId>springfox-swagger2</artifactId>
+      <version>2.6.1</version>
+    </dependency>
+    <dependency>
+      <groupId>io.springfox</groupId>
+      <artifactId>springfox-swagger-ui</artifactId>
+      <version>2.6.1</version>
+    </dependency>
+</dependencies>
+```
 
-git地址：[https://github.com/swagger-api](https://github.com/swagger-api)
 
-##添加SwaggerConfig
+###添加SwaggerConfig
 
 包名填写的是你的项目controler的包
 
