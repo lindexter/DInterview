@@ -2,7 +2,7 @@
 
 git地址：[https://github.com/swagger-api](https://github.com/swagger-api)
 
-添加SwaggerConfig
+##添加SwaggerConfig
 
 包名填写的是你的项目controler的包
 
