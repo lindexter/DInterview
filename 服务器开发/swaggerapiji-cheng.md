@@ -50,7 +50,6 @@ public class SwaggerConfig {
 }
 ```
 ###使用教程
-
-
+![](/assets/服务器开发-swagger集成-1.png)
 
 
