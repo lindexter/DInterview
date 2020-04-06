@@ -6,5 +6,5 @@
 
 go get golang.org/x/mobile/cmd/gomobile
 
-![](/assets/移动架构师-NDK开发-go开发-安装gomobile-2.png)
+![](/assets/移动架构师-NDK开发-go开发-安装gomobile-3.png)
 
