@@ -58,7 +58,7 @@
   * [环境部署](服务器开发/huan-jing-bu-shu.md)
     * [tomcat部署](服务器开发/huan-jing-bu-shu/tomcatbu-shu.md)
     * [数据库部署](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu.md)
-      * MySQL安装与部署
+      * [MySQL安装与部署](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/mysqlan-zhuang-yu-bu-shu.md)
   * [Java后端开发](服务器开发/javahou-duan-kai-fa.md)
   * [SwaggerAPI集成](服务器开发/swaggerapiji-cheng.md)
 * [运维基础](运维基础.md)
