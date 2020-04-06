@@ -6,5 +6,5 @@
 
 go get golang.org/x/mobile/cmd/gomobile
 
-mkdir -p $GOPATH/src/golang.org/x
+![](/assets/移动架构师-NDK开发-go开发-安装gomobile-2.png)
 
