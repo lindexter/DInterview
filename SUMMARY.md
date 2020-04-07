@@ -43,7 +43,7 @@
     * [推送集成](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/tui-song-ji-cheng.md)
     * [常用的开源框架集合](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/chang-yong-de-kai-yuan-kuang-jia-ji-he.md)
   * [NDK模块开发](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa.md)
-    * [NDK](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/ndk.md)
+    * [NDK环境安装](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/ndk.md)
     * [C语言基础](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/cyu-yan-ji-chu.md)
     * [C++基础](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/cji-chu.md)
     * [go语言开发](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/goyu-yan-kai-fa.md)
