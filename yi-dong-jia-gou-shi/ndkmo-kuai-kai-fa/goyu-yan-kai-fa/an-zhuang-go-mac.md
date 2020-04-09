@@ -10,7 +10,19 @@
 
 ![](/assets/移动架构师-NDK开发-go开发-安装golang-3.png)
 
-配置goproxy
+###配置go环境变量
+```
+# Setting go path
+export GOROOT=/usr/local/go
+export GOPATH=/Users/Dexter/Documents/codingTools/go
+export PATH=${PATH}:${GOPATH}/bin:${GOROOT}
+# 启用 Go Modules 功能
+export GO111MODULE=on
+# 配置 GOPROXY 环境变量
+export GOPROXY=https://goproxy.io
+```
+
+
 
 
 
