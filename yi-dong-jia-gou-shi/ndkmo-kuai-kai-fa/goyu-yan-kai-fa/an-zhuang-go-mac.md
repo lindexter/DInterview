@@ -10,3 +10,7 @@
 
 ![](/assets/移动架构师-NDK开发-go开发-安装golang-3.png)
 
+配置goproxy
+
+
+

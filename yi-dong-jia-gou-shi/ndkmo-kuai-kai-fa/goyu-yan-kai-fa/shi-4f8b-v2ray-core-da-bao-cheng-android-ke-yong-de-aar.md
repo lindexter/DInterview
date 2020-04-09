@@ -1,6 +1,4 @@
-# v2ray-core打包成android可用的aar
-
-
+# V2Ray编译Android aar
 
 
 
