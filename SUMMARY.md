@@ -51,6 +51,7 @@
       * [安装gomobile](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/goyu-yan-kai-fa/pei-zhi-gomobile.md)
       * [gomobile编译生成aar](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/goyu-yan-kai-fa/gomobilebian-yi-sheng-cheng-aar.md)
       * [示例-v2ray-core打包成android可用的aar](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/goyu-yan-kai-fa/shi-4f8b-v2ray-core-da-bao-cheng-android-ke-yong-de-aar.md)
+      * [go项目包目录结构](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/goyu-yan-kai-fa/goxiang-mu-bao-mu-lu-jie-gou.md)
     * [tun2socks技术](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/tun2socksji-zhu.md)
   * [微信小程序](yi-dong-jia-gou-shi/wei-xin-xiao-cheng-xu.md)
   * [Hybrid 开发与Flutter](yi-dong-jia-gou-shi/hybrid-kai-fa-yu-flutter.md)
