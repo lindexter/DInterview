@@ -31,8 +31,8 @@
   * [移动全方面性能调优](yi-dong-jia-gou-shi/yi-dong-quan-fang-mian-xing-neng-diao-you.md)
     * [内存优化](yi-dong-jia-gou-shi/yi-dong-quan-fang-mian-xing-neng-diao-you/nei-cun-you-hua.md)
     * [电量优化](yi-dong-jia-gou-shi/yi-dong-quan-fang-mian-xing-neng-diao-you/dian-liang-you-hua.md)
-    * 存储优化
-    * 适配方案
+    * [存储优化](yi-dong-jia-gou-shi/yi-dong-quan-fang-mian-xing-neng-diao-you/cun-chu-you-hua.md)
+    * [适配方案](yi-dong-jia-gou-shi/yi-dong-quan-fang-mian-xing-neng-diao-you/shi-pei-fang-an.md)
     * [APK全方位健身](yi-dong-jia-gou-shi/yi-dong-quan-fang-mian-xing-neng-diao-you/apkquan-fang-wei-jian-shen.md)
   * [开源框架](yi-dong-jia-gou-shi/kai-yuan-kuang-jia.md)
     * [Glide图片框架](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/glidetu-pian-kuang-jia.md)
