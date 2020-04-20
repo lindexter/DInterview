@@ -72,4 +72,5 @@
 * [运维基础](运维基础.md)
   * [持续集成](yun-wei-gong-cheng-shi/chi-xu-ji-cheng.md)
     * [Android Jenkins CI集成](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/android-jenkins-ciji-cheng.md)
+    * [微软Azure平台](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/wei-ruan-azure-ping-tai.md)
 
