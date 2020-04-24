@@ -58,6 +58,7 @@
       * [go项目包目录结构](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/goyu-yan-kai-fa/goxiang-mu-bao-mu-lu-jie-gou.md)
     * [tun2socks技术](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/tun2socksji-zhu.md)
   * [组件化开发](yi-dong-jia-gou-shi/zu-jian-hua-kai-fa.md)
+    * [H5可用的Retrofit2通用组件](yi-dong-jia-gou-shi/zu-jian-hua-kai-fa/retrofit2de-tong-yong-zu-jian.md)
   * [微信小程序](yi-dong-jia-gou-shi/wei-xin-xiao-cheng-xu.md)
   * [Hybrid 开发与Flutter](yi-dong-jia-gou-shi/hybrid-kai-fa-yu-flutter.md)
   * [Kotlin](yi-dong-jia-gou-shi/kotlin.md)
