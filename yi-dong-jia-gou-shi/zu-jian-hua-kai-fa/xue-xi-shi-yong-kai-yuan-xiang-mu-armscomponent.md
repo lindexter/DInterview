@@ -8,7 +8,6 @@ repositories中添加maven仓库
 //修复butterknife不兼容高版本gradle的依赖
 maven { url "https://oss.sonatype.org/content/repositories/snapshots" }
 ```
-
 ```groovy
 dependencies {
         classpath 'com.android.tools.build:gradle:3.4.2'
