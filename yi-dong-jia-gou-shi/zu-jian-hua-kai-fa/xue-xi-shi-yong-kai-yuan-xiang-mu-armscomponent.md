@@ -4,12 +4,12 @@
 
 ### ArmsComponent组件化关于butterknife的不兼容解决
 repositories中添加maven仓库
-```
+```groovy
 //修复butterknife不兼容高版本gradle的依赖
 maven { url "https://oss.sonatype.org/content/repositories/snapshots" }
 ```
 
-```
+```groovy
 dependencies {
         classpath 'com.android.tools.build:gradle:3.4.2'
         classpath ('com.jakewharton:butterknife-gradle-plugin:10.1.1-SNAPSHOT') {
