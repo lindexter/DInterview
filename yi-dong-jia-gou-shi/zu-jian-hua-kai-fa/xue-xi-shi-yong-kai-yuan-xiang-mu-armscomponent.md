@@ -3,6 +3,11 @@
 > [https://github.com/JessYanCoding/ArmsComponent](https://github.com/JessYanCoding/ArmsComponent)
 
 ### ArmsComponent组件化关于butterknife的不兼容解决
+repositories中添加maven仓库
+```
+//修复butterknife不兼容高版本gradle的依赖
+maven { url "https://oss.sonatype.org/content/repositories/snapshots" }
+```
 
 ```
 dependencies {
