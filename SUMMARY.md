@@ -17,6 +17,7 @@
     * [网络基础](yi-dong-jia-gou-shi/ji-chu-ji-zhu/wang-luo-ji-chu.md)
     * [Java语言进阶](yi-dong-jia-gou-shi/ji-chu-ji-zhu/javayu-yan-jin-jie.md)
       * [虚拟机](yi-dong-jia-gou-shi/ji-chu-ji-zhu/javayu-yan-jin-jie/xu-ni-ji.md)
+      * [泛型](yi-dong-jia-gou-shi/ji-chu-ji-zhu/javayu-yan-jin-jie/fan-xing.md)
     * [git基础](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu.md)
   * [Android框架体系](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou.md)
     * [高级UI](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui.md)
