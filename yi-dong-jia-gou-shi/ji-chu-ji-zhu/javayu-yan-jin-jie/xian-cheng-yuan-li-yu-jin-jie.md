@@ -5,9 +5,9 @@
  Java默认是多线程
  
  实现线程
-  - 继承Thread
-  - Runnable不是线程，是任务，不能运行，需要寄托
-  - 实现 Callable接口，是任务，需要寄托
+  * 继承Thread
+  * Runnable不是线程，是任务，不能运行，需要寄托
+  * 实现 Callable接口，是任务，需要寄托
  
 ### Android里的线程
 
