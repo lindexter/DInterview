@@ -10,6 +10,11 @@ CPU核心数、时间碎片机制、并发与并行
   
 >只有.start()方法，才能证明是线程
 
-  #### 线程停止
-
+  #### 线程停止【和谐的停止线程】
+   * run函数运行结束时候end Thread【最和谐的方式】
+   * interrupt()、isInterrupted()、static变量控制isRunning
+   * Runnable直接使用Thread.currentThread().isInterrupted()
+   
+  #### 线程控制顺序
+  
 
