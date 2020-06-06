@@ -70,7 +70,7 @@
     * [基础语法](yi-dong-jia-gou-shi/kotlin/ji-chu-yu-fa.md)
   * [Android前沿技术](yi-dong-jia-gou-shi/androidqian-yan-ji-zhu.md)
   * [套壳开发技术](yi-dong-jia-gou-shi/tao-ke-kai-fa-ji-zhu.md)
-    * WebView与H5交互的接口文档
+    * [在H5Platform平台上快速配置module](yi-dong-jia-gou-shi/tao-ke-kai-fa-ji-zhu/webviewyu-h5-jiao-hu-de-jie-kou-wen-dang.md)
 * [服务器后端开发](服务器开发.md)
   * [环境部署](服务器开发/huan-jing-bu-shu.md)
     * [tomcat部署](服务器开发/huan-jing-bu-shu/tomcatbu-shu.md)
