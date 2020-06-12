@@ -66,6 +66,7 @@
     * [学习使用开源项目ArmsComponent](yi-dong-jia-gou-shi/zu-jian-hua-kai-fa/xue-xi-shi-yong-kai-yuan-xiang-mu-armscomponent.md)
   * [微信小程序](yi-dong-jia-gou-shi/wei-xin-xiao-cheng-xu.md)
   * [Hybrid 开发与Flutter](yi-dong-jia-gou-shi/hybrid-kai-fa-yu-flutter.md)
+    * [macOS下Flutter开发环境安装](yi-dong-jia-gou-shi/hybrid-kai-fa-yu-flutter/macxia-flutter-kai-fa-huan-jing-an-zhuang.md)
   * [Kotlin](yi-dong-jia-gou-shi/kotlin.md)
     * [基础语法](yi-dong-jia-gou-shi/kotlin/ji-chu-yu-fa.md)
   * [Android前沿技术](yi-dong-jia-gou-shi/androidqian-yan-ji-zhu.md)
