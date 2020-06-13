@@ -4,7 +4,7 @@
 
 移动架构师-Flutter-开发环境配置-1.png
 
-打开.bash\_profile   
+打开.bash\_profile  
 添加Flutter的国内镜像环境变量配置
 
 ```xml
@@ -15,6 +15,18 @@ export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
 ![](/assets/移动架构师-Flutter-开发环境配置-1.png)
 
 ## 打开官网，下载Flutter的SDK
+
+mac SDK下载地址：[https://flutter.dev/docs/get-started/install/macos](https://flutter.dev/docs/get-started/install/macos)
+
+![](/assets/移动架构师-Flutter-开发环境配置-2.png)
+
+## 配置SDK的环境变量
+
+
+
+![](/assets/移动架构师-Flutter-开发环境配置-3.png)
+
+
 
 
 
