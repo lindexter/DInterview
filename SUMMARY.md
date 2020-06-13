@@ -26,6 +26,7 @@
     * [高级UI](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui.md)
       * [事件分发机制](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui/shi-jian-fen-fa-ji-zhi.md)
       * [常用View](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui/chang-yong-view.md)
+        * [drawable分辨率汇总](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui/bu-ju-viewgroup/drawablefen-bian-lv-hui-zong.md)
       * [布局ViewGroup](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui/bu-ju-viewgroup.md)
       * [View渲染机制](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui/viewxuan-ran-ji-zhi.md)
       * [自定义View](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui/zi-ding-yi-view.md)
