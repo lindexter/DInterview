@@ -31,3 +31,5 @@ export PATH=${PATH}:${FLUTTER_HOME}
 
 ![](/assets/移动架构师-Flutter-开发环境配置-3.png)
 
+>flutter doctor : 检测Flutter的本机环境依赖
+
