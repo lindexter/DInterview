@@ -23,9 +23,10 @@ mac SDK下载地址：[https://flutter.dev/docs/get-started/install/macos](https
 ## 配置SDK的环境变量
 
 .bash\_profile中添加Flutter SDK环境变量
-
-
-
+```xml
+export FLUTTER_HOME=/Users/Dexter/Documents/codingTools/flutter/bin
+export PATH=${PATH}:${FLUTTER_HOME}
+```
 ![](/assets/移动架构师-Flutter-开发环境配置-4.png)
 
 ![](/assets/移动架构师-Flutter-开发环境配置-3.png)
