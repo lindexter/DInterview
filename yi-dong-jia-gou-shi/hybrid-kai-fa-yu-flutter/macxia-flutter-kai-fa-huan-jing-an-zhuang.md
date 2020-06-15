@@ -2,7 +2,6 @@
 
 ## 配置Flutter国内镜像
 
-移动架构师-Flutter-开发环境配置-1.png
 
 打开.bash\_profile  
 添加Flutter的国内镜像环境变量配置
