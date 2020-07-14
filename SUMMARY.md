@@ -91,5 +91,5 @@
   * [持续集成](yun-wei-gong-cheng-shi/chi-xu-ji-cheng.md)
     * [微软Azure平台](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/wei-ruan-azure-ping-tai.md)
     * [Jenkins](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/jenkins.md)
-  * [dock容器使用与进阶](yun-wei-gong-cheng-shi/dockrong-qi-shi-yong-yu-jin-jie.md)
+  * [Docker安装与使用](yun-wei-gong-cheng-shi/dockrong-qi-shi-yong-yu-jin-jie.md)
 
