@@ -19,15 +19,31 @@ brew cask install docker
 
 输入系统密码安装完成
 
-
-
 ## 查看docker的版本
 
 ```xml
  docker --version
 ```
 
-## 镜像加速
+![](/assets/运维基础-docker-安装与使用-3.png)
 
+## 配置镜像加速源
 
+配置-&gt;Docker Engine-&gt;Json配置![](/assets/运维基础-docker-安装与使用-4.png)
+
+```xml
+{
+    "registry-mirrors":[
+        "https://kfwkfulq.mirror.aliyuncs.com",
+        "https://2lqq34jg.mirror.aliyuncs.com",
+        "https://pee6w651.mirror.aliyuncs.com",
+        "https://registry.docker-cn.com",
+        "http://hub-mirror.c.163.com"
+    ],
+    "experimental":false,
+    "debug":true
+}
+```
+## 安装目录与Images存储路径
+docker.dmg默认的images存储路径是：/Users/Dexter/Library/Containers/com.docker.docker
 
