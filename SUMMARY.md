@@ -79,7 +79,7 @@
 * [服务器后端开发](服务器开发.md)
   * [环境部署](服务器开发/huan-jing-bu-shu.md)
     * [tomcat部署](服务器开发/huan-jing-bu-shu/tomcatbu-shu.md)
-    * [docker的安装与部署](服务器开发/huan-jing-bu-shu/dockerde-an-zhuang-yu-bu-shu.md)
+    * [Docker安装与使用](yun-wei-gong-cheng-shi/dockrong-qi-shi-yong-yu-jin-jie.md)
   * [数据库](服务器开发/shu-ju-ku.md)
   * [MySQL安装与部署](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/mysqlan-zhuang-yu-bu-shu.md)
   * [Java后端开发](服务器开发/javahou-duan-kai-fa.md)
@@ -91,5 +91,4 @@
   * [持续集成](yun-wei-gong-cheng-shi/chi-xu-ji-cheng.md)
     * [微软Azure平台](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/wei-ruan-azure-ping-tai.md)
     * [Jenkins](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/jenkins.md)
-  * [Docker安装与使用](yun-wei-gong-cheng-shi/dockrong-qi-shi-yong-yu-jin-jie.md)
 
