@@ -4,7 +4,7 @@
 
 2. settings.gradle中include新的module
 
-3. 修改包名和Application，包括androidTest和Test的包名
+3. 修改包名和Application，包括androidTest和Test的包名(Rename directory,去掉打勾Search in comments and strings)
 
 4. 修改manifest里的package和activity的路径
 
