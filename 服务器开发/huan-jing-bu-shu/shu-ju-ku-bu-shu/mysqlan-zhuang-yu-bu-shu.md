@@ -7,5 +7,6 @@ mysql.server stop
 //重启MySQL服务
 mysql.server restart
 ```
+## 查看mysql安装的位置
 
 
