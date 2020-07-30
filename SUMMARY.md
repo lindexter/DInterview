@@ -86,6 +86,7 @@
   * [数据库](服务器开发/shu-ju-ku.md)
     * [MySQL安装与部署](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/mysqlan-zhuang-yu-bu-shu.md)
   * [Java后端开发](服务器开发/javahou-duan-kai-fa.md)
+    * [pom.xml详解](服务器开发/javahou-duan-kai-fa/pomxmlxiang-jie.md)
   * [Swagger](服务器开发/swagger.md)
     * [Swagger使用配置文档](服务器开发/swaggershi-yong-pei-zhi-wen-dang.md)
     * [SwaggerAPI集成](服务器开发/swaggerapiji-cheng.md)
