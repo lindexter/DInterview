@@ -12,6 +12,8 @@
       * [gradle环境变量配置](tools/macbook/环境变量配置/gradle环境变量配置.md)
     * [常用软件](tools/macbook/常用软件.md)
   * [常用工具网站](tools/常用工具网站.md)
+  * [Git版本控制](tools/git.md)
+    * [Git--修改历史提交记录的邮箱和作者信息](tools/git/gitxiu-gai-li-shi-ti-jiao-ji-lu-de-you-xiang-he-zuo-zhe-xin-xi.md)
 * [移动架构师](移动架构师.md)
   * [基础技术](yi-dong-jia-gou-shi/ji-chu-ji-zhu.md)
     * [网络基础](yi-dong-jia-gou-shi/ji-chu-ji-zhu/wang-luo-ji-chu.md)
