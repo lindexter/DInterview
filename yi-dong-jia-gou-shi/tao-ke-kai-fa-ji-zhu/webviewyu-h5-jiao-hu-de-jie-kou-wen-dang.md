@@ -6,21 +6,13 @@
 
 3. 修改包名和Application，包括androidTest和Test的包名(Rename directory,去掉打勾Search in comments and strings)
 
-4. 修改manifest里的package和activity的路径
+4. 修改manifest里的package和BizUtils的路径
 
-5. 修改bulid.gradle[Module]的applicationId和App名称
+5. 修改bulid.gradle[Module]的applicationId、App名称和BASE_URL
 
 6. 修改String.xml中的APP名称
 
-7. 删掉MainActivity和LaunchActivity中的R文件的import包，导入新的R文件
+7. 修改icon和loading页图片
 
-8. 修改基础包app中BuildConfig导入
-
-9. 修改微信依赖包的R文件依赖
-
-10. 修改icon和loading页图片
-
-11. 修改BASE_URL
-
-12. 重新签名
+8. 重新签名
 
