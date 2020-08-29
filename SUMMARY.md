@@ -83,6 +83,7 @@
   * [Android前沿技术](yi-dong-jia-gou-shi/androidqian-yan-ji-zhu.md)
   * [套壳开发技术](yi-dong-jia-gou-shi/tao-ke-kai-fa-ji-zhu.md)
     * [在H5Platform平台上快速配置module](yi-dong-jia-gou-shi/tao-ke-kai-fa-ji-zhu/webviewyu-h5-jiao-hu-de-jie-kou-wen-dang.md)
+    * [在H5Platform平台极端封装教程](yi-dong-jia-gou-shi/tao-ke-kai-fa-ji-zhu/h5platformping-tai-ji-duan-feng-zhuang-jiao-cheng.md)
 * [服务器后端开发](服务器开发.md)
   * [容器环境部署](服务器开发/huan-jing-bu-shu.md)
     * [tomcat部署](服务器开发/huan-jing-bu-shu/tomcatbu-shu.md)
