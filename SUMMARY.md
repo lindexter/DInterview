@@ -27,6 +27,8 @@
     * [git基础](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu.md)
       * [Android Studio配置.gitignore文件](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/android-studiopei-7f6e-gitignore-wen-jian.md)
       * [git--局域网建立本地仓库教程](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/gitju-yu-wang-jian-li-ben-di-cang-ku-jiao-cheng.md)
+    * 数据结构与算法
+      * [排序](yi-dong-jia-gou-shi/ji-chu-ji-zhu/pai-xu.md)
   * [Android框架体系](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou.md)
     * [高级UI](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui.md)
       * [事件分发机制](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui/shi-jian-fen-fa-ji-zhi.md)
