@@ -100,6 +100,8 @@
     * [Swagger使用配置文档](服务器开发/swaggershi-yong-pei-zhi-wen-dang.md)
     * [SwaggerAPI集成](服务器开发/swaggerapiji-cheng.md)
     * [Swagger-如何添加模块和接口](服务器开发/swaggerru-he-tian-jia-mo-kuai-he-jie-kou.md)
+  * PHP后端开发
+    * [PHP开发命名规范](服务器开发/phpkai-fa-ming-ming-gui-fan.md)
 * [运维基础](运维基础.md)
   * [持续集成](yun-wei-gong-cheng-shi/chi-xu-ji-cheng.md)
     * [微软Azure平台](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/wei-ruan-azure-ping-tai.md)
