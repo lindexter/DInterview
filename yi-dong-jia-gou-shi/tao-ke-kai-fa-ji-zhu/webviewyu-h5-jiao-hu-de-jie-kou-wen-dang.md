@@ -10,9 +10,7 @@
 
 5. 修改bulid.gradle[Module]的applicationId、App名称和BASE_URL
 
-6. 修改String.xml中的APP名称
+6. 修改icon和loading页图片
 
-7. 修改icon和loading页图片
-
-8. 重新签名
+7. 重新签名
 
