@@ -29,7 +29,7 @@ project  应用部署目录
 │   │   ├── controller
 │   │   │   ├── Api.php			//Api基类
 │   │   │   ├── Backend.php		//后台基类
-│   │   │   ├── Frontend.php    //前台基类
+│   │   │   ├── Frontend.php           //前台基类
 │   │   │   └── Uc.php			//Ucenter基类
 │   │   ├── library
 │   │   │   ├── Auth.php		//前台权限验证类
