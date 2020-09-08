@@ -22,7 +22,7 @@ brew services start nginx
 
 ## 检查nginx是否启动成功
 
-浏览器中输入：**localhost:8080**[localhost:8080]
+浏览器中输入：**[localhost:8080](localhost:8080)**
 ![](/assets/服务器后端开发-nginx安装-2.png)
 
 
