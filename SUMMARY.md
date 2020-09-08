@@ -86,10 +86,6 @@
 * [服务器后端开发](服务器开发.md)
   * [容器环境部署](服务器开发/huan-jing-bu-shu.md)
     * [tomcat部署](服务器开发/huan-jing-bu-shu/tomcatbu-shu.md)
-    * [Docker技术](服务器开发/huan-jing-bu-shu/dockerji-zhu.md)
-      * [Docker安装与使用](yun-wei-gong-cheng-shi/dockrong-qi-shi-yong-yu-jin-jie.md)
-      * [IDEA环境下JavaWeb项目的docker使用](服务器开发/huan-jing-bu-shu/dockerji-zhu/ideahuan-jing-xia-javaweb-xiang-mu-de-docker-shi-yong.md)
-      * [DockerFile详解](服务器开发/huan-jing-bu-shu/dockerji-zhu/dockerfilexiang-jie.md)
   * [数据库](服务器开发/shu-ju-ku.md)
     * [MySQL安装与部署](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/mysqlan-zhuang-yu-bu-shu.md)
   * [Java后端开发](服务器开发/javahou-duan-kai-fa.md)
@@ -107,6 +103,7 @@
     * [微软Azure平台](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/wei-ruan-azure-ping-tai.md)
     * [Jenkins](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/jenkins.md)
   * Docker教程
+    * [Docker安装与使用](yun-wei-gong-cheng-shi/dockrong-qi-shi-yong-yu-jin-jie.md)
     * [Docker常用命令](yun-wei-gong-cheng-shi/dockerchang-yong-ming-ling.md)
     * [在Docker环境下安装禅道](yun-wei-gong-cheng-shi/zai-docker-huan-jing-xia-an-zhuang-shan-dao.md)
     * [在Docker环境下运行PHP程序](yun-wei-gong-cheng-shi/zai-docker-huan-jing-xia-yun-xing-php-cheng-xu.md)
