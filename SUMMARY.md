@@ -99,6 +99,7 @@
   * PHP后端开发
     * [PHP开发命名规范](服务器开发/phpkai-fa-ming-ming-gui-fan.md)
     * [FastAdmin框架的项目包结构](服务器开发/fastadminkuang-jia-de-xiang-mu-bao-jie-gou.md)
+  * [Mac系统下nginx的安装](服务器开发/macxi-tong-xia-nginx-de-an-zhuang.md)
 * [运维基础](运维基础.md)
   * [持续集成](yun-wei-gong-cheng-shi/chi-xu-ji-cheng.md)
     * [微软Azure平台](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/wei-ruan-azure-ping-tai.md)
