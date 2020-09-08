@@ -3,9 +3,14 @@
 ```
 docker image ls
 ```
+## 查看当前正在运行的容器
+```
+docker ps
+```
+
 ## 查看所有容器
 ```
-docker container ls --all
+docker ps -a
 ```
 ## 使用帮助命令
 ```
