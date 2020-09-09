@@ -18,7 +18,9 @@ nginx -v
 
 ## 启动nginx
 
+```
 brew services start nginx
+```
 
 ## 检查nginx是否启动成功
 
