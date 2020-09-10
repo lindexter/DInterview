@@ -14,8 +14,6 @@
     * [常用软件](tools/macbook/常用软件.md)
     * [常用命令](tools/macbook/chang-yong-ming-ling.md)
   * [常用工具网站](tools/常用工具网站.md)
-  * [Git版本控制](tools/git.md)
-    * [Git--修改历史提交记录的邮箱和作者信息](tools/git/gitxiu-gai-li-shi-ti-jiao-ji-lu-de-you-xiang-he-zuo-zhe-xin-xi.md)
 * [移动架构师](移动架构师.md)
   * [基础技术](yi-dong-jia-gou-shi/ji-chu-ji-zhu.md)
     * [网络基础](yi-dong-jia-gou-shi/ji-chu-ji-zhu/wang-luo-ji-chu.md)
@@ -26,7 +24,8 @@
       * [线程原理与进阶](yi-dong-jia-gou-shi/ji-chu-ji-zhu/javayu-yan-jin-jie/xian-cheng-yuan-li-yu-jin-jie.md)
       * [多线程技术](yi-dong-jia-gou-shi/ji-chu-ji-zhu/javayu-yan-jin-jie/duo-xian-cheng-ji-zhu.md)
     * [git基础](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu.md)
-      * [Android Studio配置.gitignore文件](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/android-studiopei-7f6e-gitignore-wen-jian.md)
+      * [.gitignore文件配置](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/android-studiopei-7f6e-gitignore-wen-jian.md)
+      * [Git--修改历史提交记录的邮箱和作者信息](tools/git/gitxiu-gai-li-shi-ti-jiao-ji-lu-de-you-xiang-he-zuo-zhe-xin-xi.md)
       * [git--局域网建立本地仓库教程](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/gitju-yu-wang-jian-li-ben-di-cang-ku-jiao-cheng.md)
     * 数据结构与算法
       * [排序](yi-dong-jia-gou-shi/ji-chu-ji-zhu/pai-xu.md)

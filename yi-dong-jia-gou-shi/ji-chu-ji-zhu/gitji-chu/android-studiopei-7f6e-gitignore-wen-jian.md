@@ -1,4 +1,4 @@
-# Android Studio配置.gitignore文件
+# 配置.gitignore文件
 
 ## 语法
 
