@@ -96,6 +96,7 @@
     * [SwaggerAPI集成](服务器开发/swaggerapiji-cheng.md)
     * [Swagger-如何添加模块和接口](服务器开发/swaggerru-he-tian-jia-mo-kuai-he-jie-kou.md)
   * [PHP后端开发](服务器开发/phphou-duan-kai-fa.md)
+    * [PHP常用命令](服务器开发/phpchang-yong-ming-ling.md)
     * [PHP开发命名规范](服务器开发/phpkai-fa-ming-ming-gui-fan.md)
     * [Mac系统下nginx的安装](服务器开发/macxi-tong-xia-nginx-de-an-zhuang.md)
     * [Mac系统下PECL的安装](服务器开发/macxi-tong-xia-pecl-de-an-zhuang.md)
