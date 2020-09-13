@@ -23,11 +23,11 @@
       * [注解与反射](yi-dong-jia-gou-shi/ji-chu-ji-zhu/javayu-yan-jin-jie/zhu-jie-yu-fan-she.md)
       * [线程原理与进阶](yi-dong-jia-gou-shi/ji-chu-ji-zhu/javayu-yan-jin-jie/xian-cheng-yuan-li-yu-jin-jie.md)
       * [多线程技术](yi-dong-jia-gou-shi/ji-chu-ji-zhu/javayu-yan-jin-jie/duo-xian-cheng-ji-zhu.md)
-    * [git基础](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu.md)
+    * [Git基础](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu.md)
+      * [git常用命令](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/gitchang-yong-ming-ling.md)
       * [.gitignore文件配置](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/android-studiopei-7f6e-gitignore-wen-jian.md)
       * [Git--修改历史提交记录的邮箱和作者信息](tools/git/gitxiu-gai-li-shi-ti-jiao-ji-lu-de-you-xiang-he-zuo-zhe-xin-xi.md)
       * [git--局域网建立本地仓库教程](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/gitju-yu-wang-jian-li-ben-di-cang-ku-jiao-cheng.md)
-      * [git常用命令](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/gitchang-yong-ming-ling.md)
     * 数据结构与算法
       * [排序](yi-dong-jia-gou-shi/ji-chu-ji-zhu/pai-xu.md)
   * [Android框架体系](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou.md)
