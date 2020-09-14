@@ -29,7 +29,7 @@
       * [Git--修改历史提交记录的邮箱和作者信息](tools/git/gitxiu-gai-li-shi-ti-jiao-ji-lu-de-you-xiang-he-zuo-zhe-xin-xi.md)
       * [git--局域网建立本地仓库教程](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/gitju-yu-wang-jian-li-ben-di-cang-ku-jiao-cheng.md)
     * [数据结构与算法](yi-dong-jia-gou-shi/ji-chu-ji-zhu/shu-ju-jie-gou-yu-suan-fa.md)
-      * [排序](yi-dong-jia-gou-shi/ji-chu-ji-zhu/pai-xu.md)
+      * [基础排序](yi-dong-jia-gou-shi/ji-chu-ji-zhu/pai-xu.md)
   * [Android框架体系](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou.md)
     * [高级UI](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui.md)
       * [事件分发机制](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou/gao-ji-ui/shi-jian-fen-fa-ji-zhi.md)
