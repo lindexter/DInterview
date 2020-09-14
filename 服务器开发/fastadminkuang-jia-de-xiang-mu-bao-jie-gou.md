@@ -89,7 +89,7 @@ project  应用部署目录
 │   └── router.php  
 ├── runtime  
 ├── thinkphp                //ThinkPHP5框架核心目录  
-├── vendor                    //Compposer资源包位置  
+├── vendor                  //Compposer资源包位置  
 ├── .bowerrc                //Bower目录配置文件  
 ├── LICENSE  
 ├── README.md  

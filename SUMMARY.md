@@ -101,7 +101,7 @@
     * [PHP开发命名规范](服务器开发/phpkai-fa-ming-ming-gui-fan.md)
     * [Mac系统下nginx的安装](服务器开发/macxi-tong-xia-nginx-de-an-zhuang.md)
     * [Mac系统下PECL的安装](服务器开发/macxi-tong-xia-pecl-de-an-zhuang.md)
-    * [PHP的xdebug的安装](服务器开发/macxi-tong-xia-php-kuo-zhan-xdebug-de-an-zhuang.md)
+    * [PHP调试-xdebug的安装](服务器开发/macxi-tong-xia-php-kuo-zhan-xdebug-de-an-zhuang.md)
     * [FastAdmin框架的项目包结构](服务器开发/fastadminkuang-jia-de-xiang-mu-bao-jie-gou.md)
     * [PhpStrom常用的插件](服务器开发/phpstromchang-yong-de-cha-jian.md)
     * [FastAdmin常用的命令](服务器开发/fastadminchang-yong-de-ming-ling.md)
