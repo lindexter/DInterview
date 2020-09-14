@@ -5,6 +5,8 @@
 | php -version | 查看php版本 |
 | which php | 查看php的安装路径 |
 | sudo php-fpm | 重启php环境 |
+| ps aux \| grep -c php-fpm |查看PHP进程数|
+
 
 
 
