@@ -1,5 +1,4 @@
 # AndroidJSInterface接口文档
------------
 
 ### 1、显示Toast的消息
 ##### URL
