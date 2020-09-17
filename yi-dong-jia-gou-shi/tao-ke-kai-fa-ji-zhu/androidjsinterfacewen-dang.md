@@ -28,4 +28,12 @@ window.NativeView.savePicture(String[] picUrls)
 |:----- |:-------|:-----|----- |
 |picUrls |ture |string数组|保存图片的url |
 
+### 4、URL微信分享
+##### URL
+window.NativeView.weChatShare(String webUrl)
+#### 请求参数
+
+|参数|必选|类型|说明|
+|:----- |:-------|:-----|----- |
+|webUrl |ture |string|需要分享的网页url |
 
