@@ -28,6 +28,7 @@
       * [.gitignore文件配置](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/android-studiopei-7f6e-gitignore-wen-jian.md)
       * [Git--修改历史提交记录的邮箱和作者信息](tools/git/gitxiu-gai-li-shi-ti-jiao-ji-lu-de-you-xiang-he-zuo-zhe-xin-xi.md)
       * [git--局域网建立本地仓库教程](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/gitju-yu-wang-jian-li-ben-di-cang-ku-jiao-cheng.md)
+      * [git--如何将自己的开源项目分享到github](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/gitru-he-jiang-zi-jide-kai-yuan-xiang-mu-fen-xiang-dao-github.md)
     * [数据结构与算法](yi-dong-jia-gou-shi/ji-chu-ji-zhu/shu-ju-jie-gou-yu-suan-fa.md)
       * [基础排序](yi-dong-jia-gou-shi/ji-chu-ji-zhu/pai-xu.md)
   * [Android框架体系](yi-dong-jia-gou-shi/androidkuang-jia-ti-xi-jia-gou.md)
