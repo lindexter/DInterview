@@ -10,8 +10,7 @@ $content=substr($content,32)
 ```
 改为
 ```
-$content=substr($content,
-17071);
+$content=substr($content,17071);
 ```
 若还报此错在加上对应的bytes值即可  
 正常显示后可改回原来的值
