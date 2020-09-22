@@ -15,8 +15,8 @@
 |git branch -r|查看远程分支|
 |git branch -l|查看本地分支|
 |git checkout [branch-name]|切换分支|
-|||
-|||
+|git log|查看提交日记  q退出|
+|git pull origin next:master|取回origin主机的next分支，与本地的master分支合并|
 |||
 |||
 |||
