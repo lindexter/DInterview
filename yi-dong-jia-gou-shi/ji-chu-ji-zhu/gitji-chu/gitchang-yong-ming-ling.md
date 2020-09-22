@@ -11,10 +11,57 @@
 |git remote set-url --push [name] [newUrl]|修改远程仓库|
 |git pull [remoteName] [localBranchName]|拉取远程仓库|
 |git push [remoteName] [localBranchName]|推送远程仓库|
+|git branch -a|查看全部分支|
+|git branch -r|查看远程分支|
+|git branch -l|查看本地分支|
+|git checkout [branch-name]|切换分支|
 |||
 |||
 |||
 |||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
