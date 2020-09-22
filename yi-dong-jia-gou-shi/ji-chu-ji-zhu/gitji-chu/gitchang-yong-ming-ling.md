@@ -9,8 +9,8 @@
 | git remote rm origin | 删除远程仓库 |
 |git remote add [name] [url]|添加远程仓库|
 |git remote set-url --push [name] [newUrl]|修改远程仓库|
-|||
-|||
+|git pull [remoteName] [localBranchName]|拉取远程仓库|
+|git push [remoteName] [localBranchName]|推送远程仓库|
 |||
 |||
 |||
