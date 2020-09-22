@@ -1,7 +1,8 @@
 # git常用命令
 
-| 功能 | 命令 |
+| 命令 | 功能 |
 | :--- | :--- |
-| 删除git | git remote rm origin |
+| git init | git初始化 |
+| git remote rm origin | 删除git的远程地址 |
 
 
