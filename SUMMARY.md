@@ -111,6 +111,7 @@
     * [FastAdmin框架的项目包结构](服务器开发/fastadminkuang-jia-de-xiang-mu-bao-jie-gou.md)
     * [FastAdmin常用的命令](服务器开发/fastadminchang-yong-de-ming-ling.md)
     * [FastAdmin上线前的配置](服务器开发/fastadminshang-xian-qian-de-pei-zhi.md)
+    * [FastAdmin一键CRUD的教程](服务器开发/fastadminyi-jian-crud-de-jiao-cheng.md)
 * [运维基础](运维基础.md)
   * [持续集成](yun-wei-gong-cheng-shi/chi-xu-ji-cheng.md)
     * [微软Azure平台](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/wei-ruan-azure-ping-tai.md)
