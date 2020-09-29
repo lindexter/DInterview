@@ -13,6 +13,8 @@
 |显示隐藏文件|defaults write com.apple.finder AppleShowAllFiles -bool true|
 |不显示隐藏文件|defaults write com.apple.finder AppleShowAllFiles -bool false|
 |重启Nginx|sudo /usr/local/Cellar/nginx/1.19.2/bin/nginx -s reload|
+|查看电脑最大允许连接数|ulimit -n|
+|当前电脑已建立的连接数|netstat -n \| grep ESTABLISHED \| wc -l|
 
 
 
