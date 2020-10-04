@@ -122,5 +122,4 @@
     * [Docker常用命令](yun-wei-gong-cheng-shi/dockerchang-yong-ming-ling.md)
     * [在Docker环境下安装禅道](yun-wei-gong-cheng-shi/zai-docker-huan-jing-xia-an-zhuang-shan-dao.md)
     * [在Docker环境下运行PHP程序](yun-wei-gong-cheng-shi/zai-docker-huan-jing-xia-yun-xing-php-cheng-xu.md)
-* [card](card.md)
 
