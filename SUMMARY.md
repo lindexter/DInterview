@@ -115,6 +115,7 @@
     * [PhpStrom激活教程\(仅供学习\)](服务器开发/phpstromji-huo-jiao-7a0b28-jin-gong-xue-4e6029.md)
   * [Go后端开发](服务器开发/gohou-duan-kai-fa.md)
     * [Go Frame框架的初始入门](服务器开发/gohou-duan-kai-fa/go-framekuang-jia-de-chu-shi-ru-men.md)
+    * [常用命令](服务器开发/gohou-duan-kai-fa/chang-yong-ming-ling.md)
 * [运维基础](运维基础.md)
   * [持续集成](yun-wei-gong-cheng-shi/chi-xu-ji-cheng.md)
     * [微软Azure平台](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/wei-ruan-azure-ping-tai.md)
