@@ -18,7 +18,7 @@ brew install go
 ```
 brew info go
 ```
-###然后再配置goroot和gopath的环境变量
+### 然后再配置goroot和gopath的环境变量
 打开.bash_profile文件
 ```
 open .bash_profile
