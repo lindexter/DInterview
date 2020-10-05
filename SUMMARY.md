@@ -113,6 +113,7 @@
     * [FastAdmin上线前的配置](服务器开发/fastadminshang-xian-qian-de-pei-zhi.md)
     * [FastAdmin一键CRUD的教程](服务器开发/fastadminyi-jian-crud-de-jiao-cheng.md)
     * [PhpStrom激活教程\(仅供学习\)](服务器开发/phpstromji-huo-jiao-7a0b28-jin-gong-xue-4e6029.md)
+  * [Go后端开发](服务器开发/gohou-duan-kai-fa.md)
 * [运维基础](运维基础.md)
   * [持续集成](yun-wei-gong-cheng-shi/chi-xu-ji-cheng.md)
     * [微软Azure平台](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/wei-ruan-azure-ping-tai.md)
