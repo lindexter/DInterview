@@ -20,7 +20,7 @@
 | git stash | 暂存当前正在进行的工作 |
 | git stash pop | 恢复未提交的工作 |
 | git reset --hard | 放弃merge |
-|  |  |
+| git config --global --edit | 查看全局的配置文件 |
 |  |  |
 |  |  |
 |  |  |

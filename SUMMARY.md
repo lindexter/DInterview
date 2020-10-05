@@ -14,6 +14,7 @@
     * [常用软件](tools/macbook/常用软件.md)
   * [常用工具网站](tools/常用工具网站.md)
   * [常用命令](tools/macbook/chang-yong-ming-ling.md)
+  * [常用的Brew命令](tools/chang-yong-de-brew-ming-ling.md)
 * [移动架构师](移动架构师.md)
   * [基础技术](yi-dong-jia-gou-shi/ji-chu-ji-zhu.md)
     * [网络基础](yi-dong-jia-gou-shi/ji-chu-ji-zhu/wang-luo-ji-chu.md)
