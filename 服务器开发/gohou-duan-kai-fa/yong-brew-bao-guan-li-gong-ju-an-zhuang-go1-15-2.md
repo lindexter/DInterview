@@ -14,7 +14,11 @@ brew install go
 ```
 ### 如果出现卸载不了或者升级不了
 直接删除路径下的go文件夹，重新安装最新版本go
-然后再配置goroot和gopath的环境变量
+### 查看brew安装的go文件路径
+```
+brew info go
+```
+###然后再配置goroot和gopath的环境变量
 打开.bash_profile文件
 ```
 open .bash_profile
