@@ -4,7 +4,14 @@
 ```
 brew uninstall go
 ```
+或者用升级命令
+```
+brew upgrade go
+```
 ### 安装go
 ```
 brew install go
 ```
+### 如果出现卸载不了或者升级不了
+直接删除路径下的go文件夹，重新安装最新版本go
+然后再配置goroot和gopath的环境变量
