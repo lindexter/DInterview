@@ -15,7 +15,7 @@
 |重启Nginx|sudo /usr/local/Cellar/nginx/1.19.2/bin/nginx -s reload|
 |查看电脑最大允许连接数|ulimit -n|
 |当前电脑已建立的连接数|netstat -n \| grep ESTABLISHED \| wc -l|
-|sudo killall -STOP -c usbd|关掉macbook的USB使用进程|
+|关掉macbook的USB使用进程|sudo killall -STOP -c usbd|
 
 
 
