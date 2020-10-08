@@ -1,0 +1,1 @@
+gf的安装位置：/usr/local/bin

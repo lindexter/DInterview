@@ -10,6 +10,7 @@
       * [修改终端的欢迎界面](tools/macbook/终端/修改终端的欢迎界面.md)
     * [环境变量配置](tools/macbook/环境变量配置.md)
       * [gradle环境变量配置](tools/macbook/环境变量配置/gradle环境变量配置.md)
+      * [常用的环境变量配置](tools/chang-yong-de-huan-jing-bian-liang-pei-zhi.md)
     * [常见问题](tools/macbook/终端/chang-jian-wen-ti.md)
     * [常用软件](tools/macbook/常用软件.md)
   * [常用工具网站](tools/常用工具网站.md)
