@@ -122,7 +122,7 @@
     * [Go开发代码规范教程](服务器开发/gohou-duan-kai-fa/gokai-fa-dai-ma-gui-fan-jiao-cheng.md)
     * [Goland配置Dockerfile运行环境](服务器开发/gohou-duan-kai-fa/golandpei-zhi-dockerfile-yun-xing-huan-jing.md)
     * [GoFrame项目结构](服务器开发/gohou-duan-kai-fa/goframexiang-mu-jie-gou.md)
-    * [GoFrame中gf工具的使用](服务器开发/gohou-duan-kai-fa/goframezhong-gf-gong-ju-de-shi-yong.md)
+    * [GoFrame中gf-cli工具的使用](服务器开发/gohou-duan-kai-fa/goframezhong-gf-gong-ju-de-shi-yong.md)
   * 压力测试
     * [压力测试工具-ab](服务器开发/ya-li-ce-shi-gong-5177-ab.md)
 * [运维基础](运维基础.md)

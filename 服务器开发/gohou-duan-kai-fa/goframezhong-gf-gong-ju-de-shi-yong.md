@@ -1,2 +1,2 @@
-# GoFrame中gf工具的使用
+# GoFrame中gf-cli工具的使用
 
