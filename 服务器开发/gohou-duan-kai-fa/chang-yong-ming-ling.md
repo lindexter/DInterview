@@ -2,6 +2,7 @@
 | :--- | :--- |
 | 查看版本号 | go verison |
 | 查看配置信息 | go env |
+| 执行go程序 | go run ./main.go |
 
 
 
