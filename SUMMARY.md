@@ -125,6 +125,7 @@
     * [Goland配置Dockerfile运行环境](服务器开发/gohou-duan-kai-fa/golandpei-zhi-dockerfile-yun-xing-huan-jing.md)
     * [GoFrame项目结构](服务器开发/gohou-duan-kai-fa/goframexiang-mu-jie-gou.md)
     * [Mac中gf-cli工具的安装](服务器开发/gohou-duan-kai-fa/goframezhong-gf-gong-ju-de-shi-yong.md)
+    * [GoFrame中工具链的使用](服务器开发/gohou-duan-kai-fa/goframezhong-gong-ju-lian-de-shi-yong.md)
   * 压力测试
     * [压力测试工具-ab](服务器开发/ya-li-ce-shi-gong-5177-ab.md)
 * [运维基础](运维基础.md)
