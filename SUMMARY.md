@@ -17,7 +17,7 @@
   * [常用命令](tools/macbook/chang-yong-ming-ling.md)
   * [常用的Brew命令](tools/chang-yong-de-brew-ming-ling.md)
   * [Git基础教程](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu.md)
-    * [git常用命令](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/gitchang-yong-ming-ling.md)
+    * [Git常用命令](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/gitchang-yong-ming-ling.md)
     * [.gitignore文件配置](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/android-studiopei-7f6e-gitignore-wen-jian.md)
     * [Git--修改历史提交记录的邮箱和作者信息](tools/git/gitxiu-gai-li-shi-ti-jiao-ji-lu-de-you-xiang-he-zuo-zhe-xin-xi.md)
     * [git--局域网建立本地仓库教程](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/gitju-yu-wang-jian-li-ben-di-cang-ku-jiao-cheng.md)
