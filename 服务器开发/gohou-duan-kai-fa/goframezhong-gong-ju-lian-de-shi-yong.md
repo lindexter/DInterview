@@ -5,6 +5,6 @@
 ### 常用命令
 | 功能 | 命令 |
 | :--- | :--- |
-|  |  |
+| 生成model类代码 | gf gen model ./model -c config/config.toml -p sys_ -t sys_user |
 
 
