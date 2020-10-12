@@ -1,3 +1,5 @@
+# psql常用的时间转换函数
+
 | 函数 | 返回类型 |描述|例子|
 | :--- | :---: |:--- |:--- |
 | to_char(timestamp, text) | text	|把时间戳转换成字串	|to_char(current_timestamp, 'HH12:MI:SS')|
