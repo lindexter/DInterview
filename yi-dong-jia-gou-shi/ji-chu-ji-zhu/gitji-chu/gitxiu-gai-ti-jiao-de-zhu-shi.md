@@ -12,5 +12,6 @@ git rebase -i HEAD~2
 ```
 最后的数字2指的是显示到倒数第几次 比如这个输入的2就会显示倒数的两次注释（最上面两行）
 
+
 > 文档来自：[Git 修改已提交的commit注释](https://www.jianshu.com/p/098d85a58bf1)
 
