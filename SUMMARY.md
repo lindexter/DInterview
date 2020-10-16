@@ -22,6 +22,7 @@
     * [Git--修改历史提交记录的邮箱和作者信息](tools/git/gitxiu-gai-li-shi-ti-jiao-ji-lu-de-you-xiang-he-zuo-zhe-xin-xi.md)
     * [git--局域网建立本地仓库教程](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/gitju-yu-wang-jian-li-ben-di-cang-ku-jiao-cheng.md)
     * [git--如何将自己的开源项目分享到github](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/gitru-he-jiang-zi-jide-kai-yuan-xiang-mu-fen-xiang-dao-github.md)
+    * [git--修改提交的注释](yi-dong-jia-gou-shi/ji-chu-ji-zhu/gitji-chu/gitxiu-gai-ti-jiao-de-zhu-shi.md)
 * [移动架构师](移动架构师.md)
   * [基础技术](yi-dong-jia-gou-shi/ji-chu-ji-zhu.md)
     * [网络基础](yi-dong-jia-gou-shi/ji-chu-ji-zhu/wang-luo-ji-chu.md)
