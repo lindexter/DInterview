@@ -1,2 +1,8 @@
-# Mac上PSQL的安装教程
+# Mac用Brew的PSQL安装教程
 
+### 安装postgresql
+```
+brew install postgresql
+```
+
+### 

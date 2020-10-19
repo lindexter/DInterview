@@ -101,7 +101,7 @@
       * [MySQL安装与部署](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/mysqlan-zhuang-yu-bu-shu.md)
     * [PostgreSQL数据库教程](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/postgresqlshu-ju-ku-jiao-cheng.md)
       * [PSQL常用命令](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/postgresqlshu-ju-ku-jiao-cheng/psqlchang-yong-ming-ling.md)
-      * [Mac上PSQL的安装教程](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/postgresqlshu-ju-ku-jiao-cheng/macshang-psql-de-an-zhuang-jiao-cheng.md)
+      * [Mac用Brew的PSQL安装教程](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/postgresqlshu-ju-ku-jiao-cheng/macshang-psql-de-an-zhuang-jiao-cheng.md)
       * [PSQL继承和视图基础](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/postgresqlshu-ju-ku-jiao-cheng/psqlji-cheng-he-shi-tu-de-you-que-dian.md)
       * [PSQL常用的时间转换](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/postgresqlshu-ju-ku-jiao-cheng/psqlchang-yong-de-shi-jian-zhuan-huan.md)
       * [数据库事务](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/postgresqlshu-ju-ku-jiao-cheng/shu-ju-ku-shi-wu.md)
