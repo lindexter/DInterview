@@ -5,5 +5,5 @@
 
 ![](/assets/服务器后端开发-数据库-PSQL-继承和视图的优缺点-1.png)
 
-[PostgreSQL表的继承和分区](https://www.cnblogs.com/orangeform/archive/2012/04/27/2291814.html)
+>[PostgreSQL表的继承和分区](https://www.cnblogs.com/orangeform/archive/2012/04/27/2291814.html)
 
