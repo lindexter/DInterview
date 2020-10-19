@@ -9,4 +9,6 @@ brew install postgresql
 pg_ctl -V
 ```
 ### 安装路径
-/usr/local/var/postgres
+```
+/usr/local/Cellar/postgresql/13.0
+```
