@@ -4,5 +4,9 @@
 ```
 brew install postgresql
 ```
-
-### 
+### 查看PSQL的版本
+```
+pg_ctl -V
+```
+### 安装路径
+/usr/local/var/postgres

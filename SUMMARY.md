@@ -103,6 +103,7 @@
       * [PSQL常用命令](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/postgresqlshu-ju-ku-jiao-cheng/psqlchang-yong-ming-ling.md)
       * [Mac用Brew的PSQL安装教程](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/postgresqlshu-ju-ku-jiao-cheng/macshang-psql-de-an-zhuang-jiao-cheng.md)
       * [PSQL继承和视图基础](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/postgresqlshu-ju-ku-jiao-cheng/psqlji-cheng-he-shi-tu-de-you-que-dian.md)
+      * [PSQL的悲观锁和乐观锁教程](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/postgresqlshu-ju-ku-jiao-cheng/psqlde-bei-guan-suo-he-le-guan-suo-jiao-cheng.md)
       * [PSQL常用的时间转换](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/postgresqlshu-ju-ku-jiao-cheng/psqlchang-yong-de-shi-jian-zhuan-huan.md)
       * [数据库事务](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/postgresqlshu-ju-ku-jiao-cheng/shu-ju-ku-shi-wu.md)
   * [Java后端开发](服务器开发/javahou-duan-kai-fa.md)
