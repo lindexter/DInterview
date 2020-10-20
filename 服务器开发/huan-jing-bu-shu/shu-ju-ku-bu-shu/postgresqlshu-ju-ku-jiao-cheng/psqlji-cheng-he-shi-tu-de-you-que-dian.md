@@ -20,6 +20,14 @@ UNION
 SELECT * FROM hero_order_8003)
 ORDER BY bet_time DESC
 ```
+### 删除视图
+```
+DROP VIEW  view_hero_order
+```
+### 查询视图
+```
+SELECT * FROM view_hero_order
+```
 
 
 
