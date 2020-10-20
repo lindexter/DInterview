@@ -10,3 +10,16 @@ PSQL支持多表继承
 
 >[PostgreSQL表的继承和分区](https://www.cnblogs.com/orangeform/archive/2012/04/27/2291814.html)
 
+### 新建视图命令
+```
+CREATE VIEW view_hero_order AS
+(SELECT * FROM hero_order_8001
+UNION
+SELECT * FROM hero_order_8002
+UNION
+SELECT * FROM hero_order_8003)
+ORDER BY bet_time DESC
+```
+
+
+
