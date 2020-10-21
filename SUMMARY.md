@@ -131,7 +131,7 @@
     * [Go基础知识](服务器开发/gohou-duan-kai-fa/goji-chu-zhi-shi.md)
     * [GoFrame框架的初始入门](服务器开发/gohou-duan-kai-fa/go-framekuang-jia-de-chu-shi-ru-men.md)
     * [用Brew包管理工具安装go1.15.2](服务器开发/gohou-duan-kai-fa/yong-brew-bao-guan-li-gong-ju-an-zhuang-go1-15-2.md)
-    * [Goland中的插件配置](服务器开发/gohou-duan-kai-fa/golandzhong-de-cha-jian-pei-zhi.md)
+    * [Goland中的配置](服务器开发/gohou-duan-kai-fa/golandzhong-de-cha-jian-pei-zhi.md)
     * [Go开发代码规范教程](服务器开发/gohou-duan-kai-fa/gokai-fa-dai-ma-gui-fan-jiao-cheng.md)
     * [Goland配置Dockerfile运行环境](服务器开发/gohou-duan-kai-fa/golandpei-zhi-dockerfile-yun-xing-huan-jing.md)
     * [GoFrame项目结构](服务器开发/gohou-duan-kai-fa/goframexiang-mu-jie-gou.md)
