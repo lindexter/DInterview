@@ -128,6 +128,7 @@
     * [PhpStrom激活教程\(仅供学习\)](服务器开发/phpstromji-huo-jiao-7a0b28-jin-gong-xue-4e6029.md)
   * [Go后端开发](服务器开发/gohou-duan-kai-fa.md)
     * [常用命令](服务器开发/gohou-duan-kai-fa/chang-yong-ming-ling.md)
+    * [基础语法](服务器开发/gohou-duan-kai-fa/ji-chu-yu-fa.md)
     * [Go基础知识](服务器开发/gohou-duan-kai-fa/goji-chu-zhi-shi.md)
     * [GoFrame框架的初始入门](服务器开发/gohou-duan-kai-fa/go-framekuang-jia-de-chu-shi-ru-men.md)
     * [用Brew包管理工具安装go1.15.2](服务器开发/gohou-duan-kai-fa/yong-brew-bao-guan-li-gong-ju-an-zhuang-go1-15-2.md)
@@ -138,7 +139,6 @@
     * [Mac中gf-cli工具的安装](服务器开发/gohou-duan-kai-fa/goframezhong-gf-gong-ju-de-shi-yong.md)
     * [GoFrame之工具链gf-cli的使用](服务器开发/gohou-duan-kai-fa/goframezhong-gong-ju-lian-de-shi-yong.md)
     * [GoFrame框架的gdebug调试教程](服务器开发/gohou-duan-kai-fa/goframekuang-jia-de-gdebug-diao-shi-jiao-cheng.md)
-    * [Go语法-slice的使用](服务器开发/gohou-duan-kai-fa/goyu-6cd5-slice-de-shi-yong.md)
   * 压力测试
     * [压力测试工具-ab](服务器开发/ya-li-ce-shi-gong-5177-ab.md)
 * [运维基础](运维基础.md)
