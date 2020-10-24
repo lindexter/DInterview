@@ -1,5 +1,5 @@
 # GoFrame多表查询
-
+<!-- 
 ```go
 func GetAllHeroOrderByPage(pageIndex int, pageTotal int, orderBy string, where string, args ...interface{}) (r []*modelLottoHero.LottoHeroOrderEntity) {
     sqlString := ""
@@ -38,6 +38,7 @@ func GetAllHeroOrderByPage(pageIndex int, pageTotal int, orderBy string, where s
     return
 }
 ```
+-->
 
 
 
