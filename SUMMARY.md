@@ -140,6 +140,7 @@
     * [Mac中gf-cli工具的安装](服务器开发/gohou-duan-kai-fa/goframezhong-gf-gong-ju-de-shi-yong.md)
     * [GoFrame之工具链gf-cli的使用](服务器开发/gohou-duan-kai-fa/goframezhong-gong-ju-lian-de-shi-yong.md)
     * [GoFrame框架的gdebug调试教程](服务器开发/gohou-duan-kai-fa/goframekuang-jia-de-gdebug-diao-shi-jiao-cheng.md)
+    * [GoFrame多表查询](服务器开发/gohou-duan-kai-fa/goframeduo-biao-cha-xun.md)
   * 压力测试
     * [压力测试工具-ab](服务器开发/ya-li-ce-shi-gong-5177-ab.md)
 * [运维基础](运维基础.md)
