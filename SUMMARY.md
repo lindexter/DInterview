@@ -129,8 +129,6 @@
     * [PhpStrom激活教程\(仅供学习\)](服务器开发/phpstromji-huo-jiao-7a0b28-jin-gong-xue-4e6029.md)
   * [Go后端开发](服务器开发/gohou-duan-kai-fa.md)
     * [常用命令](服务器开发/gohou-duan-kai-fa/chang-yong-ming-ling.md)
-    * [基础语法](服务器开发/gohou-duan-kai-fa/ji-chu-yu-fa.md)
-      * [Slice的使用](服务器开发/gohou-duan-kai-fa/ji-chu-yu-fa/slicede-shi-yong.md)
     * [Go基础知识](服务器开发/gohou-duan-kai-fa/goji-chu-zhi-shi.md)
     * [GoFrame框架的初始入门](服务器开发/gohou-duan-kai-fa/go-framekuang-jia-de-chu-shi-ru-men.md)
     * [用Brew包管理工具安装go1.15.2](服务器开发/gohou-duan-kai-fa/yong-brew-bao-guan-li-gong-ju-an-zhuang-go1-15-2.md)

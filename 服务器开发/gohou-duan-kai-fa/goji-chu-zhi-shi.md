@@ -7,3 +7,18 @@ GO111MODULE=on，go命令行会使用modules，而一点也不会去GOPATH目录
 - GO111MODULE=auto，默认值，go命令行将会根据当前目录来决定是否启用module功能。这种情况下可以分为两种情形：
 当前目录在GOPATH/src之外且该目录包含go.mod文件
 当前文件在包含go.mod文件的目录下面。
+
+### 学习资料
+Go语言42章经
+Go2编程指南
+Go语言实战: 编写可维护Go语言代码建议
+Go资源精选中文版
+Go夜读
+Go 资源大全中文版
+Go语言高级编程
+Golang标准库
+Go 入门指南
+Go 语言学习资料与社区索引
+Gopher Reading List
+build-web-application-with-golang
+Go 源代码
