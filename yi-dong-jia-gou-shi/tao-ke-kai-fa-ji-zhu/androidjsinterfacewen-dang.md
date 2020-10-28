@@ -104,7 +104,7 @@ window.NativeView.hideKeyboard()
 ##### URL
 window.NativeView.showKeyboard()
 
-### 16、保存数据到轻缓存中
+### 16、保存数据到轻缓存中(只能存string)
 ##### URL
 window.NativeView.saveSP(String key,String value)
 #### 请求参数
@@ -112,6 +112,18 @@ window.NativeView.saveSP(String key,String value)
 |:----- |:-------|:-----|----- |
 | key | ture | String | 键 |
 | value | ture | String | 值 |
+
+### 17、从轻缓存中获取数据(只能取string)
+##### URL
+window.NativeView.getSP(String key)
+#### 请求参数
+|参数|必选|类型|说明|
+|:----- |:-------|:-----|----- |
+| key | ture | String | 键 |
+#### 回调接口
+```java
+javascript:getSharedPreferences('" + key + "," + value) + "')"
+```
 
 
 
