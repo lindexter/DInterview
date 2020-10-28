@@ -104,6 +104,16 @@ window.NativeView.hideKeyboard()
 ##### URL
 window.NativeView.showKeyboard()
 
+### 16、保存数据到轻缓存中
+##### URL
+window.NativeView.saveSP(String key,String value)
+#### 请求参数
+|参数|必选|类型|说明|
+|:----- |:-------|:-----|----- |
+| key | ture | String | 键 |
+| value | ture | String | 值 |
+
+
 
 
 
