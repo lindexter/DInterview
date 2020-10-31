@@ -16,6 +16,7 @@
 |查看电脑最大允许连接数|ulimit -n|
 |当前电脑已建立的连接数|netstat -n \| grep ESTABLISHED \| wc -l|
 |关掉macbook的USB使用进程|sudo killall -STOP -c usbd|
+|Android代码模板路径|/Applications/Android Studio.app/Contents/plugins/android/lib/templates/activities|
 
 
 
