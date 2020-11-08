@@ -6,4 +6,5 @@ http://www.macrozheng.com/#/deploy/mall_deploy_web
 ## mall在Linux环境下的部署（基于Docker容器）
 https://mp.weixin.qq.com/s/0fVMK107i5bBq8kGQqg8KA
 
-## 
+## mall学习教程
+[**mall学习教程**](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU1Nzg4NjgyMw==&action=getalbum&album_id=1347208014788526081&scene=173&from_msgid=2247483764&from_itemidx=1&count=3#wechat_redirect)
