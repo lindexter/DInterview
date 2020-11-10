@@ -17,6 +17,7 @@
 |当前电脑已建立的连接数|netstat -n \| grep ESTABLISHED \| wc -l|
 |关掉macbook的USB使用进程|sudo killall -STOP -c usbd|
 |Android代码模板路径|/Applications/Android Studio.app/Contents/plugins/android/lib/templates/activities|
+| 授权路径的权限给用户 | sudo chown -R "用户名" 路径 |
 
 
 
