@@ -10,7 +10,7 @@ Elasticsearch是一个基于Lucene的搜索服务器。它提供了一个分布�
 brew intall elasticsearch
 ```
 安装路径：/usr/local/Cellar/elasticsearch/7.9.3
-- 本地浏览器访问http://localhost:9200
+- 本地浏览器访问[http://localhost:9200](http://localhost:9200)
 
 #### 安装Kibana
 - 安装命令
@@ -22,7 +22,7 @@ brew intall kibana
 brew services start kibana
 ```
 - 本地浏览器访问
-http://localhost:5601
+[http://localhost:5601](http://localhost:5601)
 
  green:一切都很好（集群功能齐全）
  yellow:所有数据都可用，但尚未分配一些副本（群集功能齐全）
