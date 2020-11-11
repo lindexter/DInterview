@@ -114,7 +114,7 @@
     * [开源项目mall的部署和运行](服务器开发/javahou-duan-kai-fa/kai-yuan-xiang-mu-mall-de-bu-shu-he-yun-xing.md)
     * [pom.xml详解](服务器开发/javahou-duan-kai-fa/pomxmlxiang-jie.md)
     * [IDEA使用教程](服务器开发/javahou-duan-kai-fa/ideashi-yong-jiao-cheng.md)
-    * [Elasticsearch的基础教程](服务器开发/javahou-duan-kai-fa/elasticsearchde-ji-chu-jiao-cheng.md)
+    * [Elasticsearch的安装教程](服务器开发/javahou-duan-kai-fa/elasticsearchde-ji-chu-jiao-cheng.md)
   * [Swagger](服务器开发/swagger.md)
     * [Swagger使用配置文档](服务器开发/swaggershi-yong-pei-zhi-wen-dang.md)
     * [SwaggerAPI集成](服务器开发/swaggerapiji-cheng.md)

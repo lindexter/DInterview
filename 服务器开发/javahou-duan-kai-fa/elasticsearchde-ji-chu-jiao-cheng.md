@@ -1,4 +1,4 @@
-# Elasticsearch的基础教程
+# Elasticsearch的安装教程
 
 ### 什么是Elasticsearch
 
@@ -9,11 +9,13 @@ Elasticsearch是一个基于Lucene的搜索服务器。它提供了一个分布�
 #### 安装elasticsearch
 
 * 安装命令
+
   ```
   brew intall elasticsearch
   ```
 
   安装路径：/usr/local/Cellar/elasticsearch/7.9.3
+
 * 本地浏览器访问[http://localhost:9200](http://localhost:9200)
 
 ![](/assets/服务器后端开发-Java后端开发-Elasticsearch基础教程-1.png)
