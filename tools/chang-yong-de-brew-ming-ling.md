@@ -1,5 +1,6 @@
 | 功能 | 命令 |
 | :--- | :--- |
+| 查看brew的版本 | brew -v |
 | 安装软件 | brew install name |
 | 桌面端软件 | brew cask install name |
 | 联网搜索软件是否存在brew中 | brew search name |
