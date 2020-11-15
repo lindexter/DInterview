@@ -1,6 +1,19 @@
 # Mac下brew安装Mongodb
 
-### 先安装
+直接brew install Mongodb有时候会报错
+
+### 使用第三方仓库来安装Mongodb
+```
+brew tap mongodb/brew
+```
+
+### 安装Mongodb的社区版本，也可以加上版本号
+```
+brew install mongodb-community
+```
+```
+brew install mongodb-community@4.2
+```
 
 ### 查看是否安装成功
 ```
@@ -19,3 +32,10 @@ Build Info: {
     }
 }
 ```
+
+### 给数据库的路径地址加管理员权限
+```
+sudo mkdir -p /data/db
+sudo chown ‘username’ /data/db
+```
+
