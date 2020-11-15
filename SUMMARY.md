@@ -117,6 +117,7 @@
       * [数据库事务](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/postgresqlshu-ju-ku-jiao-cheng/shu-ju-ku-shi-wu.md)
       * [PSQL查询计划分析](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/postgresqlshu-ju-ku-jiao-cheng/psqlcha-xun-ji-hua-fen-xi.md)
     * [Mongodb数据库教程](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/mongodbshu-ju-ku-jiao-cheng.md)
+      * [Mac下brew安装Mongodb](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/mongodbshu-ju-ku-jiao-cheng/macxia-brew-an-zhuang-mongodb.md)
   * [Java后端开发](服务器开发/javahou-duan-kai-fa.md)
     * [常用命令](服务器开发/javahou-duan-kai-fa/chang-yong-ming-ling.md)
     * [开源项目mall的部署和运行](服务器开发/javahou-duan-kai-fa/kai-yuan-xiang-mu-mall-de-bu-shu-he-yun-xing.md)
