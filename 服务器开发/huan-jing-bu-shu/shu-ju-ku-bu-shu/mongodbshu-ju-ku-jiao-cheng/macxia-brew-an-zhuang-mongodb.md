@@ -33,9 +33,16 @@ Build Info: {
 }
 ```
 
-### 给数据库的路径地址加管理员权限
+### 创建数据库存放路径以及log路径
 ```
-sudo mkdir -p /data/db
-sudo chown ‘username’ /data/db
+sudo mkdir -p /usr/local/var/mongodb
+sudo mkdir -p /usr/local/var/log/mongodb
 ```
+
+### 确保当前用户对以上两个目录有读写的权限
+```
+sudo chown dexter /usr/local/var/mongodb
+sudo chown dexter /usr/local/var/log/mongodb
+```
+
 
