@@ -2,8 +2,10 @@
 
 | 常用的各种Mongodb命令 |  |
 | :--- | :--- |
-| brew services start mongodb-community | 启动Mongodb服务 |
-| brew services stop mongodb-community | 停止Mongodb服务 |
+| 启动Mongodb服务 | brew services start mongodb-community |
+| 停止Mongodb服务 | brew services stop mongodb-community |
+| 查看 mongod 服务是否启动 | ps aux \| grep -v grep \| grep mongod |
+| 在后台启动 mongodb | mongod --dbpath /usr/local/var/mongodb --logpath /usr/local/var/log/mongodb/mongo.log --fork |
 
 
 
