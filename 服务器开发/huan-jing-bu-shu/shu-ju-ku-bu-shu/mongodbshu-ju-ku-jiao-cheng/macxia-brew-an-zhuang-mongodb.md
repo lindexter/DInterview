@@ -14,7 +14,7 @@ brew install mongodb-community
 ```
 brew install mongodb-community@4.2
 ```
-
+安装路径：/usr/local/Cellar/mongodb-community/4.4.1
 ### 查看是否安装成功
 ```
 mongod --version
