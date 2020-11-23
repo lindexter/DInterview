@@ -23,7 +23,7 @@
 | git config --global --edit | 查看全局的配置文件 |
 | git push --set-upstream origin 分支(远端的分支名) | 同步到github上 |
 | git push --set-upstream gitlab 分支(远端的分支名) | 同步到gitlab上 |
-|  |  |
+| git config --global credential.helper store | 记住用户名,密码 |
 |  |  |
 |  |  |
 |  |  |
