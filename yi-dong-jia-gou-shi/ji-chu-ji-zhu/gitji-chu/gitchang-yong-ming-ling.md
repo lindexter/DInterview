@@ -21,8 +21,8 @@
 | git stash pop | 恢复未提交的工作 |
 | git reset --hard | 放弃merge |
 | git config --global --edit | 查看全局的配置文件 |
-|  |  |
-|  |  |
+| git push --set-upstream origin 分支(远端的分支名) | 同步到github上 |
+| git push --set-upstream gitlab 分支(远端的分支名) | 同步到gitlab上 |
 |  |  |
 |  |  |
 |  |  |
