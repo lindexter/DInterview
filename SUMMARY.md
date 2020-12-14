@@ -65,6 +65,7 @@
     * [阿里百川Sophix框架](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/a-li-bai-chuan-sophix-kuang-jia.md)
     * [增量更新技术](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/zeng-liang-geng-xin.md)
     * [推送集成](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/tui-song-ji-cheng.md)
+      * [极光推送集成教程](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/tui-song-ji-cheng/ji-guang-tui-song-ji-cheng-jiao-cheng.md)
     * [RxJava](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/rxjava.md)
   * [NDK模块开发](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa.md)
     * [NDK环境安装](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/ndk.md)
