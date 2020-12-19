@@ -168,4 +168,6 @@
     * [在Docker环境下安装禅道](yun-wei-gong-cheng-shi/zai-docker-huan-jing-xia-an-zhuang-shan-dao.md)
     * [在Docker环境下运行PHP程序](yun-wei-gong-cheng-shi/zai-docker-huan-jing-xia-yun-xing-php-cheng-xu.md)
 * [价值投资](jia-zhi-tou-zi.md)
+  * [基础知识](jia-zhi-tou-zi/ji-chu-zhi-shi.md)
+  * [读《慢慢变富》](jia-zhi-tou-zi/du-300a-man-man-bian-fu-300b.md)
 
