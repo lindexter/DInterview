@@ -107,7 +107,6 @@
   * [数据库](服务器开发/shu-ju-ku.md)
     * [MySQL数据库教程](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/mysqlshu-ju-ku-jiao-cheng.md)
       * [MYSQL常用命令](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/mysqlchang-yong-ming-ling.md)
-      * [MySQL常用的语句](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/mysqlchang-yong-de-yu-ju.md)
       * [MySQL安装与部署](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/mysqlan-zhuang-yu-bu-shu.md)
     * [PostgreSQL数据库教程](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/postgresqlshu-ju-ku-jiao-cheng.md)
       * [PSQL常用命令](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/postgresqlshu-ju-ku-jiao-cheng/psqlchang-yong-ming-ling.md)
