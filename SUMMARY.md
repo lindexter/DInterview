@@ -104,6 +104,8 @@
         * [Elasticsearch的安装教程](服务器开发/javahou-duan-kai-fa/elasticsearchde-ji-chu-jiao-cheng.md)
       * [Logstash技术](服务器开发/ji-chu-ji-zhu/elkji-zhu-zhan/logstashji-zhu.md)
       * [Kibana技术](服务器开发/ji-chu-ji-zhu/elkji-zhu-zhan/kibanaji-zhu.md)
+    * [Linux技术](服务器开发/ji-chu-ji-zhu/linuxji-zhu.md)
+      * [常用命令](服务器开发/ji-chu-ji-zhu/linuxji-zhu/chang-yong-ming-ling.md)
   * [数据库](服务器开发/shu-ju-ku.md)
     * [MySQL数据库教程](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/mysqlshu-ju-ku-jiao-cheng.md)
       * [MYSQL常用命令](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/mysqlchang-yong-ming-ling.md)
