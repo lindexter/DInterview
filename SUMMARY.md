@@ -171,4 +171,5 @@
 * [价值投资](jia-zhi-tou-zi.md)
   * [基础知识](jia-zhi-tou-zi/ji-chu-zhi-shi.md)
   * [读《慢慢变富》](jia-zhi-tou-zi/du-300a-man-man-bian-fu-300b.md)
+  * [读《时间的玫瑰》](jia-zhi-tou-zi/du-300a-shi-jian-de-mei-gui-300b.md)
 
