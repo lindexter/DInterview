@@ -162,7 +162,7 @@
 * [运维基础](运维基础.md)
   * [持续集成](yun-wei-gong-cheng-shi/chi-xu-ji-cheng.md)
     * [微软Azure平台](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/wei-ruan-azure-ping-tai.md)
-    * [Jenkins](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/jenkins.md)
+    * [Jenkins教程](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/jenkins.md)
   * [Docker教程](yun-wei-gong-cheng-shi/dockerjiao-cheng.md)
     * [常用命令](yun-wei-gong-cheng-shi/dockerchang-yong-ming-ling.md)
     * [Docker安装与使用](yun-wei-gong-cheng-shi/dockrong-qi-shi-yong-yu-jin-jie.md)
