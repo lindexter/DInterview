@@ -189,6 +189,18 @@ window.NativeView.saveQRcode\(String qrUrl\)
 | :--- | :--- | :--- | --- |
 | qrUrl | ture | String | 需要保存的url |
 
+### 19、获取渠道标识字符串\(只能取string\)
+##### URL
+window.NativeView.getChannel\(\)
+#### 回调接口
+```java
+javascript:getChannelResult('" + channel + "')"
+```
+
+
+
+
+
 
 
 
