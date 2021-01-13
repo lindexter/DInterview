@@ -143,6 +143,24 @@ window.NativeView.getSystemInfo\(\)
 ```
 "javascript:systemInfoResult('" + PhoneInfoBean.getPhoneInfoString() + "')"
 ```
+##### 回调JSON参数
+| 参数 | 类型 | 说明 |
+| :--- | :--- | --- |
+| model | String | 手机型号 |
+| version | String | 系统版本 |
+| linuxCore | String | Linux内核 |
+| androidId  | String | ANDROID_ID |
+| deviceId  | String | 设备Id |
+| serial | String | 序列号(Android10以上无权限获取) |
+| imei  | String | IMEI(Android10以上无权限获取) |
+| imsi  | String | IMSI(Android10以上无权限获取) |
+| meid | String | MEID(Android10以上无权限获取) |
+| isPhone  | boolean | 是否是手机 |
+| isSimCardReady | boolean | 判断sim卡是否准备好 |
+| simOperatorName | String | 获取sim卡运营商名称 |
+| simOperatorByMnc | String | 获取sim卡运营商名称 |
+
+>https://developer.android.com/training/articles/user-data-ids
 
 ### 14、隐藏手机软键盘
 
@@ -196,6 +214,15 @@ window.NativeView.getChannel\(\)
 ```java
 javascript:getChannelResult('" + channel + "')"
 ```
+
+### 20、获取手机的型号和系统版本
+##### URL
+window.NativeView.appMessage\(\)
+#### 回调接口
+```java
+javascript:appMessageCallback('" + model + " " + version + "')"
+```
+
 
 
 
