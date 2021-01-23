@@ -251,7 +251,7 @@ window.NativeView.logAction\(String actionType, String actionParam\)
 | 参数 | 必选 | 类型 | 说明 |
 | :--- | :--- | :--- | :--- |
 | actionType | ture | String | 行为类型 |
-| actionParam | ture | String | 行为参数 |
+| actionParam | ture | JsonString | 行为参数json字符串 |
 
 
 ### 23、DMS设置用户软ID
