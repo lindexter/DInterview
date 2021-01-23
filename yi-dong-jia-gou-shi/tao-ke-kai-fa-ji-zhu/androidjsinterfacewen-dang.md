@@ -231,6 +231,8 @@ window.NativeView.logAction\(String actionType\)
 | :--- | :--- | :--- | :--- |
 | actionType | ture | String | 行为类型 |
 >行为类型，分为两类，一类是在DMP上定义的标准行为类型，具体见com.qq.gdt.action.ActionType类；另一类是您自己自定义的行为类型，可以传入一个字符串类型的参数，要求：这个字符串只能包含字母、数字和下划线，必须以字母开头，长度不能超过64
+详细参数见附录
+https://developers.e.qq.com/docs/guide/user_actions/sdk
 
 ### 22、DMS行为上报接口二
 ##### URL
