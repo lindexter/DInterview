@@ -229,15 +229,27 @@ window.NativeView.logAction\(String actionType\)
 #### 请求参数
 | 参数 | 必选 | 类型 | 说明 |
 | :--- | :--- | :--- | :--- |
-| actionType | ture | String | 行为类型，分为两类，一类是在DMP上定义的标准行为类型，具体见com.qq.gdt.action.ActionType类；另一类是您自己自定义的行为类型，可以传入一个字符串类型的参数，要求：这个字符串只能包含字母、数字和下划线，必须以字母开头，长度不能超过64 |
+| actionType | ture | String | 行为类型 |
+>行为类型，分为两类，一类是在DMP上定义的标准行为类型，具体见com.qq.gdt.action.ActionType类；另一类是您自己自定义的行为类型，可以传入一个字符串类型的参数，要求：这个字符串只能包含字母、数字和下划线，必须以字母开头，长度不能超过64
 
 ### 22、DMS行为上报接口二
 ##### URL
-window.NativeView.logAction\(String actionType, JSONObject actionParam\)
+window.NativeView.logAction\(String actionType, String key, String value\)
 #### 请求参数
 | 参数 | 必选 | 类型 | 说明 |
 | :--- | :--- | :--- | :--- |
-| userUniqueId | ture | String | 用户软ID |
+| actionType | ture | String | 行为类型 |
+| key | ture | String | 单个行为参数的key |
+| key | ture | String | 单个行为参数的value |
+
+### 22、DMS行为上报接口三
+##### URL
+window.NativeView.logAction\(String actionType, String actionParam\)
+#### 请求参数
+| 参数 | 必选 | 类型 | 说明 |
+| :--- | :--- | :--- | :--- |
+| actionType | ture | String | 行为类型 |
+| actionParam | ture | String | 行为参数 |
 
 
 ### 23、DMS设置用户软ID
