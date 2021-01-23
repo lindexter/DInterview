@@ -253,7 +253,6 @@ window.NativeView.logAction\(String actionType, String actionParam\)
 | actionType | ture | String | 行为类型 |
 | actionParam | ture | JsonString | 行为参数json字符串 |
 
-
 ### 23、DMS设置用户软ID
 ##### URL
 window.NativeView.setUserUniqueId\(String userUniqueId\)
@@ -261,6 +260,15 @@ window.NativeView.setUserUniqueId\(String userUniqueId\)
 | 参数 | 必选 | 类型 | 说明 |
 | :--- | :--- | :--- | --- |
 | userUniqueId | ture | String | 用户软ID |
+
+### 24、DMS执行预设置的action方法
+##### URL
+window.NativeView.doActionUtilsMethods\(String methods,Object[] params\)
+#### 请求参数
+| 参数 | 必选 | 类型 | 说明 |
+| :--- | :--- | :--- | --- |
+| methods | ture | String | 执行的方法名 |
+| params | ture | 数组 | 执行的方法参数只允许传字符串和布尔值 |
 
 
 
