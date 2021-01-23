@@ -223,6 +223,31 @@ window.NativeView.appMessage\(\)
 javascript:appMessageCallback('" + model + " " + version + "')"
 ```
 
+### 21、DMS行为上报接口一
+##### URL
+window.NativeView.logAction\(String actionType\)
+| 参数 | 必选 | 类型 | 说明 |
+| :--- | :--- | :--- | --- |
+| actionType | ture | String | 用户软ID |
+
+### 22、DMS行为上报接口二
+##### URL
+window.NativeView.logAction\(String actionType, JSONObject actionParam\)
+#### 请求参数
+| 参数 | 必选 | 类型 | 说明 |
+| :--- | :--- | :--- | :--- |
+| userUniqueId | ture | String | 用户软ID |
+
+
+### 23、DMS设置用户软ID
+##### URL
+window.NativeView.setUserUniqueId\(String userUniqueId\)
+#### 请求参数
+| 参数 | 必选 | 类型 | 说明 |
+| :--- | :--- | :--- | --- |
+| userUniqueId | ture | String | 用户软ID |
+
+
 
 
 
