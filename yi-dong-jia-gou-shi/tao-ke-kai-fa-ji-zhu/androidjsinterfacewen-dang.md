@@ -227,7 +227,7 @@ javascript:appMessageCallback('" + model + " " + version + "')"
 ##### URL
 window.NativeView.logAction\(String actionType\)
 | 参数 | 必选 | 类型 | 说明 |
-| :--- | :--- | :--- | --- |
+| :--- | :--- | :--- | :--- |
 | actionType | ture | String | 用户软ID |
 
 ### 22、DMS行为上报接口二
