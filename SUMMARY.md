@@ -67,6 +67,7 @@
     * [推送集成](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/tui-song-ji-cheng.md)
       * [极光推送集成教程](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/tui-song-ji-cheng/ji-guang-tui-song-ji-cheng-jiao-cheng.md)
     * [RxJava](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/rxjava.md)
+    * [友盟集成教程](yi-dong-jia-gou-shi/kai-yuan-kuang-jia/you-meng-ji-cheng-jiao-cheng.md)
   * [NDK模块开发](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa.md)
     * [NDK环境安装](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/ndk.md)
     * [C语言基础](yi-dong-jia-gou-shi/ndkmo-kuai-kai-fa/cyu-yan-ji-chu.md)
