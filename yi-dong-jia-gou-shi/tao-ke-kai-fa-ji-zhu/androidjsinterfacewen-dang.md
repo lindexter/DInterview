@@ -96,12 +96,6 @@ javascript:appVersionCallback(versionCode)
 
 window.NativeView.clearCache\(\)
 
-#### 请求参数
-
-| 参数 | 必选 | 类型 | 说明 |
-| :--- | :--- | :--- | --- |
-| isSuccess | ture | boolean | 是否清除成功 |
-
 ### 10、清除webview的缓存
 
 ##### URL
