@@ -100,7 +100,7 @@ window.NativeView.clearCache\(\)
 
 | 参数 | 必选 | 类型 | 说明 |
 | :--- | :--- | :--- | --- |
-| isSuccess | ture | boolean | 是否加载成功 |
+| isSuccess | ture | boolean | 是否清除成功 |
 
 ### 10、清除webview的缓存
 
