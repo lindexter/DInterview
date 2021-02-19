@@ -169,6 +169,8 @@
     * [Docker安装与使用](yun-wei-gong-cheng-shi/dockrong-qi-shi-yong-yu-jin-jie.md)
     * [在Docker环境下安装禅道](yun-wei-gong-cheng-shi/zai-docker-huan-jing-xia-an-zhuang-shan-dao.md)
     * [在Docker环境下运行PHP程序](yun-wei-gong-cheng-shi/zai-docker-huan-jing-xia-yun-xing-php-cheng-xu.md)
+  * 翻墙教程
+    * [IOS安装蓝灯教程](yun-wei-gong-cheng-shi/iosan-zhuang-lan-deng-jiao-cheng.md)
 * [价值投资](jia-zhi-tou-zi.md)
   * [基础知识](jia-zhi-tou-zi/ji-chu-zhi-shi.md)
   * [我的投资表](wo-de-tou-zi-biao.md)
