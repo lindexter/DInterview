@@ -14,7 +14,7 @@ sudo pmset -a hibernatemode 25
 ```
 >修改完之后电脑启动会慢3~5秒
 
-如果想达到合盖上屏幕和关机的效果
+### 如果想达到合盖上屏幕和关机的效果
 ```
 sudo pmset -b tcpkeepalive 0
 ```
