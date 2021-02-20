@@ -5,7 +5,6 @@
 ```
 pmset -g
 ```
-
 ![](/assets/工具-MacBook-休眠模式耗电修改-1.png)
 
 ### 修改hibernatemode的数值
