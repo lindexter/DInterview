@@ -176,5 +176,6 @@
   * [我的投资表](wo-de-tou-zi-biao.md)
   * [读《慢慢变富》](jia-zhi-tou-zi/du-300a-man-man-bian-fu-300b.md)
   * [读《时间的玫瑰》](jia-zhi-tou-zi/du-300a-shi-jian-de-mei-gui-300b.md)
-  * [读《价值投资实战手册》](jia-zhi-tou-zi/du-300a-jia-zhi-ff1a-wo-dui-tou-zi-de-si-kao-300b.md)
+  * [《唐书房》](jia-zhi-tou-zi/du-300a-tang-shu-fang-300b.md)
+    * [读《价值投资实战手册》上部](jia-zhi-tou-zi/du-300a-tang-shu-fang-300b/du-300a-jia-zhi-tou-zi-shi-zhan-shou-ce-300b-shang-bu.md)
 
