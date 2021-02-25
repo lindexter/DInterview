@@ -174,6 +174,7 @@
     * [IOS安装蓝灯教程](yun-wei-gong-cheng-shi/iosan-zhuang-lan-deng-jiao-cheng.md)
 * [价值投资](jia-zhi-tou-zi.md)
   * [基础知识](jia-zhi-tou-zi/ji-chu-zhi-shi.md)
+    * [基础名词](jia-zhi-tou-zi/ji-chu-zhi-shi/ji-chu-ming-ci.md)
   * [我的投资表](wo-de-tou-zi-biao.md)
   * [《唐书房》](jia-zhi-tou-zi/du-300a-tang-shu-fang-300b.md)
     * [读《价值投资实战手册》上部](jia-zhi-tou-zi/du-300a-tang-shu-fang-300b/du-300a-jia-zhi-tou-zi-shi-zhan-shou-ce-300b-shang-bu.md)
