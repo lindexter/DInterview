@@ -125,6 +125,7 @@
   * [Java后端开发](服务器开发/javahou-duan-kai-fa.md)
     * [常用命令](服务器开发/javahou-duan-kai-fa/chang-yong-ming-ling.md)
     * [Mall项目使用教程](服务器开发/javahou-duan-kai-fa/kai-yuan-xiang-mu-mall-de-bu-shu-he-yun-xing.md)
+      * [Portal模块教程](服务器开发/javahou-duan-kai-fa/kai-yuan-xiang-mu-mall-de-bu-shu-he-yun-xing/mall-portmo-kuai-jiao-cheng.md)
     * [pom.xml详解](服务器开发/javahou-duan-kai-fa/pomxmlxiang-jie.md)
     * [IDEA使用教程](服务器开发/javahou-duan-kai-fa/ideashi-yong-jiao-cheng.md)
     * [RabbitMQ教程](服务器开发/javahou-duan-kai-fa/macxia-yong-brew-an-zhuang-rabbitmq.md)
