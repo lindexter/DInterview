@@ -173,6 +173,7 @@
   * [翻墙教程](yun-wei-gong-cheng-shi/fan-qiang-jiao-cheng.md)
     * [IOS安装蓝灯教程](yun-wei-gong-cheng-shi/iosan-zhuang-lan-deng-jiao-cheng.md)
   * [腾讯云服务器教程](yun-wei-gong-cheng-shi/teng-xun-yun-fu-wu-qi-jiao-cheng.md)
+    * [常用命令](yun-wei-gong-cheng-shi/teng-xun-yun-fu-wu-qi-jiao-cheng/chang-yong-ming-ling.md)
 * [价值投资](jia-zhi-tou-zi.md)
   * [基础知识](jia-zhi-tou-zi/ji-chu-zhi-shi.md)
     * [基础名词](jia-zhi-tou-zi/ji-chu-zhi-shi/ji-chu-ming-ci.md)
