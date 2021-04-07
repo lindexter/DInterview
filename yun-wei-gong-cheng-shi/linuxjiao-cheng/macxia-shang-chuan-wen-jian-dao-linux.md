@@ -38,7 +38,7 @@ Profiles—&gt;open Profiles—&gt;Edit Profiles—&gt;Advanced—&gt;Edit Trigg
 | \*\*B0100 | Run Silent Coprocess | /usr/local/bin/iterm2-send-zmodem.sh |
 | \*\*B00000000000000 | Run Silent Coprocess | /usr/local/bin/iterm2-recv-zmodem.sh |
 
-
+#### 上传文件
 
 ![](/assets/运维基础-Linux教程-mac上传文件到linux-1.png)
 
