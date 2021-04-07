@@ -11,11 +11,12 @@ https://www.iterm2.com/
 brew install wget
 ```
 #### 下载并安装automatic zmoderm for iTerm2
+https://github.com/aikuyun/iterm2-zmodem
+iterm2-recv-zmodem.sh
+iterm2-send-zmodem.sh
+两个文件放在/usr/local/bin/
+改变脚本权限
 ```
-cd /usr/local/bin
-sudo wget https://raw.github.com/mmastrac/iterm2-zmodem/master/iterm2-send-zmodem.sh
-sudo wget https://raw.github.com/mmastrac/iterm2-zmodem/master/iterm2-recv-zmodem.sh
-\\改变脚本权限
 sudo chmod 777 /usr/local/bin/iterm2-*
 ```
 #### 配置iTerm2
