@@ -10,4 +10,23 @@ https://www.iterm2.com/
 ```
 brew install wget
 ```
+#### 下载并安装automatic zmoderm for iTerm2
+```
+cd /usr/local/bin
+sudo wget https://raw.github.com/mmastrac/iterm2-zmodem/master/iterm2-send-zmodem.sh
+sudo wget https://raw.github.com/mmastrac/iterm2-zmodem/master/iterm2-recv-zmodem.sh
+\\改变脚本权限
+sudo chmod 777 /usr/local/bin/iterm2-*
+```
+#### 配置iTerm2
+打开iTerm终端
+Profiles—>open Profiles—>Edit Profiles—>Advanced—>Edit Triggers—> 配置如下
+
+| Regular expression | Action |Action |
+| :----- | :-- |:--- |
+| **B0100 | Run Silent Coprocess | /usr/local/bin/iterm2-send-zmodem.sh |
+|**B00000000000000| Run Silent Coprocess	|/usr/local/bin/iterm2-recv-zmodem.sh|
+
+
+
 
