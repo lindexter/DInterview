@@ -9,6 +9,7 @@
 | 查看帮助 | docker --help |
 | 拉取并运行 nginx 网页服务器，并命名为 webserver | docker run --detach --publish 80:80 --name webserver nginx |
 | 进入运行MySQL的docker容器 | docker exec -it mysql /bin/bash |
+| 移除容器 | docker rm 容器id |
 
 
 
