@@ -178,6 +178,7 @@
   * [Linux教程](yun-wei-gong-cheng-shi/linuxjiao-cheng.md)
     * [Mac下上传文件到Linux](yun-wei-gong-cheng-shi/linuxjiao-cheng/macxia-shang-chuan-wen-jian-dao-linux.md)
     * [常用命令](yun-wei-gong-cheng-shi/linuxjiao-cheng/chang-yong-ming-ling.md)
+    * [Linux环境用Docker安装Jenkins](yun-wei-gong-cheng-shi/linuxjiao-cheng/linuxhuan-jing-yong-docker-an-zhuang-jenkins.md)
 * [价值投资](jia-zhi-tou-zi.md)
   * [基础知识](jia-zhi-tou-zi/ji-chu-zhi-shi.md)
     * [基础名词](jia-zhi-tou-zi/ji-chu-zhi-shi/ji-chu-ming-ci.md)
