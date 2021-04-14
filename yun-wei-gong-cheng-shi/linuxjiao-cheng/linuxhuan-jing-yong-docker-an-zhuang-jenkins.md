@@ -12,3 +12,4 @@ docker run -p 8080:8080 -p 50000:5000 --name jenkins -u root -v /mydata/jenkins_
 
 #### 安装Jenkins推荐的插件
 如果安装不了，显示无法连接Jenkins，设置代理后再重试
+
