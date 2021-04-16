@@ -1,4 +1,5 @@
 # 常用命令
+
 | 功能 | 命令 |
 | :--- | :--- |
 | ssh root@118.24.238.82 | 远程登录linux服务器 |
@@ -9,7 +10,7 @@
 | 强制删除某个目录及其子目录 | rm -rf testdir/ |
 | 将test1目录复制到test2目录 | cp -r /mydata/tes1 /mydata/test2 |
 | 压缩与解压 | tar |
-| 列出当前目录(/)下的所有文件 | ls -l / |
+| 列出当前目录\(/\)下的所有文件 | ls -l / |
 | 获取目前所在工作目录的绝对路径 | pwd |
 | 改变当前工作目录 | cd /usr/local |
 | 显示或修改系统时间与日期 | date '+%Y-%m-%d %H:%M:%S' |
@@ -30,3 +31,6 @@
 | 重新载入配置信息而不中断服务 | systemctl reload firewalld |
 | 禁止服务开机自启动 | systemctl disable firewalld |
 | 设置服务开机自启动 | systemctl enable firewalld |
+
+
+

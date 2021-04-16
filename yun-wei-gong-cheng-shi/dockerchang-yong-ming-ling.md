@@ -3,7 +3,11 @@
 | :--- | :--- |
 | 启动容器 | docker start 容器ID |
 | 停止容器 | docker stop 容器ID |
+| 进入容器-1 | docker attach 容器ID |
+| 进入容器-2 | docker exec -it 容器ID /bin/bash  |
+| 进入容器-3 | docker exec -it 容器的name bash |
 | 查看docker的版本 | docker --version |
+| 退出容器 | exit |
 | 查看docker-compose的版本 | docker-compose --version |
 | 查看已下载的镜像 | docker image ls |
 | 查看当前正在运行的容器 | docker ps |
