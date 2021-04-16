@@ -1,6 +1,8 @@
 # 常用命令
 | 功能 | 命令 |
 | :--- | :--- |
+| 启动容器 | docker start 容器ID |
+| 停止容器 | docker stop 容器ID |
 | 查看docker的版本 | docker --version |
 | 查看docker-compose的版本 | docker-compose --version |
 | 查看已下载的镜像 | docker image ls |
