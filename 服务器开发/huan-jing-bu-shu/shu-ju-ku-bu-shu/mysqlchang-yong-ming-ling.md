@@ -6,6 +6,7 @@
 | show databases; | 查看所有数据库 |
 | use [dataname] | 使用名字为dataname的数据库 |
 | ps -ef\|grep mysql | 查看mysql进程服务安装在哪里 |
+| mysql.server start | 启动mysql服务 |    
 | quit; | 退出数据库 |
 
 
