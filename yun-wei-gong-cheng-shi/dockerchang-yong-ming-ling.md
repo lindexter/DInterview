@@ -17,6 +17,7 @@
 | 进入运行MySQL的docker容器 | docker exec -it mysql /bin/bash |
 | 移除容器 | docker rm 容器id |
 | 重启docker | systemctl restart docker |
+| 清除没有使用的无效镜像 | docker image prune |
 
 
 
