@@ -167,6 +167,7 @@
     * [Jenkins教程](yun-wei-gong-cheng-shi/chi-xu-ji-cheng/jenkins.md)
   * [Docker教程](yun-wei-gong-cheng-shi/dockerjiao-cheng.md)
     * [常用命令](yun-wei-gong-cheng-shi/dockerchang-yong-ming-ling.md)
+    * [Docker Compose常用命令](yun-wei-gong-cheng-shi/docker-composechang-yong-ming-ling.md)
     * [Docker安装与使用](yun-wei-gong-cheng-shi/dockrong-qi-shi-yong-yu-jin-jie.md)
     * [在Docker环境下安装禅道](yun-wei-gong-cheng-shi/zai-docker-huan-jing-xia-an-zhuang-shan-dao.md)
     * [在Docker环境下运行PHP程序](yun-wei-gong-cheng-shi/zai-docker-huan-jing-xia-yun-xing-php-cheng-xu.md)
