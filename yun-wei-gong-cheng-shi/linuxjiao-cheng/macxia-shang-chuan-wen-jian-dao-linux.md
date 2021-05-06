@@ -1,5 +1,10 @@
 # Mac上传文件到Linux
 
+#### Linux安装上传文件工具
+```
+yum -y install lrzsz
+```
+
 #### 安装lrzsz命令
 
 ```
