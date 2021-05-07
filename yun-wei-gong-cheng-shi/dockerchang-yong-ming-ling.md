@@ -16,6 +16,7 @@
 | 拉取并运行 nginx 网页服务器，并命名为 webserver | docker run --detach --publish 80:80 --name webserver nginx |
 | 进入运行MySQL的docker容器 | docker exec -it mysql /bin/bash |
 | 移除容器 | docker rm 容器id |
+| 移除镜像 | docker rmi 镜像id |
 | 重启docker | systemctl restart docker |
 | 清除没有使用的无效镜像 | docker image prune |
 
