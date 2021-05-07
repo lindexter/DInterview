@@ -11,4 +11,4 @@ vim  /var/lib/docker/overlay2/5d20b562131d29a4a9860dd6c000a7f7914601f67e20f80320
 
 elasticsearch-plugin install https://github.com/medcl/elasticsearch-analysis-ik/releases/download/v7.12.0/elasticsearch-analysis-ik-7.12.0.zip
 
-#### Jenkins中编译时候需要开启docker的远程访问
+#### Jenkins中添加远程服务器ssh凭证
