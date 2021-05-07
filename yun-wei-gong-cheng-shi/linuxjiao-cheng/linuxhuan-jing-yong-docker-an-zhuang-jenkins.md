@@ -23,4 +23,6 @@ docker run -p 8080:8080 -p 50000:5000 --name jenkins -u root -v /mydata/jenkins_
 ```
 System.setProperty('org.apache.commons.jelly.tags.fmt.timeZone', 'Asia/Shanghai')
 ```
-
+#### 出现SSH验证出错的问题
+修改服务器的ssh的PasswordAuthentication no为yes
+/etc/ssh/sshd_config
