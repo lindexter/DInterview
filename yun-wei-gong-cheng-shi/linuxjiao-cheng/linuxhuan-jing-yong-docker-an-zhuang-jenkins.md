@@ -19,6 +19,7 @@ docker run -p 8080:8080 -p 50000:5000 --name jenkins -u root -v /mydata/jenkins_
 ![](/assets/运维基础-linux教程-安装Jenkins-1.png)
 
 #### Jenkins修改时区
+系统管理>脚本命令行 输入
 ```
 System.setProperty('org.apache.commons.jelly.tags.fmt.timeZone', 'Asia/Shanghai')
 ```
