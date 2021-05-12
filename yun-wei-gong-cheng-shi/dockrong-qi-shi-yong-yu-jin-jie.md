@@ -47,6 +47,8 @@ brew cask install docker
 ## 安装目录与Images存储路径
 docker.dmg默认的images存储路径是：/Users/Dexter/Library/Containers/com.docker.docker
 
+/lib/systemd/system/docker.service
+
 
 
 

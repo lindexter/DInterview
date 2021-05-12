@@ -19,7 +19,7 @@
 | 移除镜像 | docker rmi 镜像id |
 | 重启docker | systemctl restart docker |
 | 清除没有使用的无效镜像 | docker image prune |
-
+| 重新加载配置 | systemctl daemon-reload |
 
 
 
