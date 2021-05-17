@@ -13,4 +13,6 @@ elasticsearch-plugin install https://github.com/medcl/elasticsearch-analysis-ik/
 
 #### Jenkins中添加远程服务器ssh凭证，记得使用密钥配置验证
 
+#### 由于远程服务器需要开发2375端口，存在一定的安全隐患
+
 
