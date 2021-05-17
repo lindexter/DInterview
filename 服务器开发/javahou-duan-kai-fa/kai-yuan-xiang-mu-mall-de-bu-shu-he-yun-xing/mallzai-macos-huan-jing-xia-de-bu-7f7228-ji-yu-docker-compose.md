@@ -1,9 +1,17 @@
 # mall在MacOS环境下的部署(基于Docker Compose)
 
-
 #### 下载所有需要安装的Docker镜像
 这些配置跟linux下一模一样
-
+```
+docker pull mysql:5.7
+docker pull redis:5
+docker pull nginx:1.10
+docker pull rabbitmq:3.7.15-management
+docker pull elasticsearch:7.6.2
+docker pull kibana:7.6.2
+docker pull logstash:7.6.2
+docker pull mongo:4.2.5
+```
 #### 创建/mydata/elasticsearch/data目录
 ```
 # 创建目录
