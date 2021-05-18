@@ -125,6 +125,7 @@
   * [Java后端开发](服务器开发/javahou-duan-kai-fa.md)
     * [常用命令](服务器开发/javahou-duan-kai-fa/chang-yong-ming-ling.md)
     * [Mall项目使用教程](服务器开发/javahou-duan-kai-fa/kai-yuan-xiang-mu-mall-de-bu-shu-he-yun-xing.md)
+      * [常用命令](服务器开发/javahou-duan-kai-fa/kai-yuan-xiang-mu-mall-de-bu-shu-he-yun-xing/chang-yong-ming-ling.md)
       * [Portal模块教程](服务器开发/javahou-duan-kai-fa/kai-yuan-xiang-mu-mall-de-bu-shu-he-yun-xing/mall-portmo-kuai-jiao-cheng.md)
       * [常见的问题教程](服务器开发/javahou-duan-kai-fa/kai-yuan-xiang-mu-mall-de-bu-shu-he-yun-xing/chang-jian-de-wen-ti-jiao-cheng.md)
       * [DockerFile和jar包部署服务器后端](服务器开发/javahou-duan-kai-fa/kai-yuan-xiang-mu-mall-de-bu-shu-he-yun-xing/dockerfilehe-jar-bao-bu-shu-fu-wu-qi-hou-duan.md)
