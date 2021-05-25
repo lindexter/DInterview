@@ -107,7 +107,7 @@
       * [Kibana技术](服务器开发/ji-chu-ji-zhu/elkji-zhu-zhan/kibanaji-zhu.md)
     * [Linux技术](服务器开发/ji-chu-ji-zhu/linuxji-zhu.md)
       * [常用命令](服务器开发/ji-chu-ji-zhu/linuxji-zhu/chang-yong-ming-ling.md)
-  * [数据库](服务器开发/shu-ju-ku.md)
+  * [数据库教程](服务器开发/shu-ju-ku.md)
     * [MySQL数据库教程](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/mysqlshu-ju-ku-jiao-cheng.md)
       * [MYSQL常用命令](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/mysqlchang-yong-ming-ling.md)
       * [MySQL安装与部署](服务器开发/huan-jing-bu-shu/shu-ju-ku-bu-shu/mysqlan-zhuang-yu-bu-shu.md)
