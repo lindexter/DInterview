@@ -12,3 +12,22 @@ docker run -p 3306:3306 --name mysql \
 -e MYSQL_ROOT_PASSWORD=root  \
 -d mysql:5.7
 ```
+#### 拷贝表文件进入docker
+```
+docker cp /Users/Dexter/Documents/codingTools/JavaProjects/mall/document/sql/mall.sql mysql:/
+docker cp /Users/Dexter/Documents/codingTools/JavaProjects/mall/document/sql/lotto.sql mysql:/
+
+```
+#### 进入mysql容器，执行mall
+```
+docker exec -it mysql /bin/bash
+mysql -uroot -proot --default-character-set=utf8
+show tables;
+use mall;
+source /mall.sql;
+```
+
+
+
+
+
