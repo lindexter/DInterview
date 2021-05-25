@@ -27,7 +27,11 @@ brew cask install docker
 
 ![](/assets/运维基础-docker-安装与使用-3.png)
 
-## 配置镜像加速源
+## 下载Docker Destop桌面版
+
+https://hub.docker.com/editions/community/docker-ce-desktop-mac/
+
+### 配置镜像加速源
 
 配置-&gt;Docker Engine-&gt;Json配置![](/assets/运维基础-docker-安装与使用-4.png)
 
