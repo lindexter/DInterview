@@ -18,3 +18,7 @@ apt-get install vim
 ```
 show global variables like '%max_allowed_packet%';
 ```
+### 设置临时的size
+```
+set global max_allowed_packet = 6*1024*1024
+```
