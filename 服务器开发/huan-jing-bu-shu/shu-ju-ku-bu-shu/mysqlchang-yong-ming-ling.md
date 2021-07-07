@@ -10,6 +10,7 @@
 | mysql.server start | 启动mysql服务 |    
 | quit; | 退出数据库 |
 | show variables like "%time_zone%"; | 查看当前时区 |
+| show global variables like '%lower_case%'; | 查看大小写是否敏感 |
 | set global time_zone = '+8:00'; | 修改mysql全局时区为北京时间 |
 | set time_zone = '+8:00' | 修改当前会话时区 |
 | flush privileges | 立即生效 |
