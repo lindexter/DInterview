@@ -173,6 +173,7 @@
   * [Docker教程](yun-wei-gong-cheng-shi/dockerjiao-cheng.md)
     * [常用命令](yun-wei-gong-cheng-shi/dockerchang-yong-ming-ling.md)
     * [Docker安装与使用](yun-wei-gong-cheng-shi/dockrong-qi-shi-yong-yu-jin-jie.md)
+    * [Docker下禅道部署](yun-wei-gong-cheng-shi/dockerxia-shan-dao-bu-shu.md)
   * [翻墙教程](yun-wei-gong-cheng-shi/fan-qiang-jiao-cheng.md)
     * [IOS安装蓝灯教程](yun-wei-gong-cheng-shi/iosan-zhuang-lan-deng-jiao-cheng.md)
   * [腾讯云服务器教程](yun-wei-gong-cheng-shi/teng-xun-yun-fu-wu-qi-jiao-cheng.md)
