@@ -20,6 +20,10 @@ elasticsearch-plugin install [https://github.com/medcl/elasticsearch-analysis-ik
 [http://www.macrozheng.com/\#/reference/docker\_protect\_socket?id=客户端访问](http://www.macrozheng.com/#/reference/docker_protect_socket?id=客户端访问)
 
 #### jenkins编译出现docker: Error response from daemon
+问题：docker: Error response from daemon: pull access denied for mall/mall-portal, repository does not exist or may require 'docker login': denied: requested access to the resource is denied.
+See 'docker run --help'.
+docker必需开启远程管理访问的功能，但是又不能直接开放2375会有安全问题，需要添加认证证书
+
 
 
 
