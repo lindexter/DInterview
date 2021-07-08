@@ -31,6 +31,7 @@
 | 重新载入配置信息而不中断服务 | systemctl reload firewalld |
 | 禁止服务开机自启动 | systemctl disable firewalld |
 | 设置服务开机自启动 | systemctl enable firewalld |
+| 重新载入配置文件服务 | systemctl daemon-reload |
 
 
 

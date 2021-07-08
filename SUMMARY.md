@@ -179,7 +179,6 @@
     * [IOS安装蓝灯教程](yun-wei-gong-cheng-shi/iosan-zhuang-lan-deng-jiao-cheng.md)
   * [腾讯云服务器教程](yun-wei-gong-cheng-shi/teng-xun-yun-fu-wu-qi-jiao-cheng.md)
     * [常用命令](yun-wei-gong-cheng-shi/teng-xun-yun-fu-wu-qi-jiao-cheng/chang-yong-ming-ling.md)
-    * [Centos7.4安装图形化界面](yun-wei-gong-cheng-shi/teng-xun-yun-fu-wu-qi-jiao-cheng/centos74an-zhuang-tu-xing-hua-jie-mian.md)
     * [Mac下SSH免密登录腾讯云服务器](yun-wei-gong-cheng-shi/teng-xun-yun-fu-wu-qi-jiao-cheng/macxia-ssh-mian-mi-deng-lu-teng-xun-yun-fu-wu-qi.md)
   * [Linux教程](yun-wei-gong-cheng-shi/linuxjiao-cheng.md)
     * [常用命令](yun-wei-gong-cheng-shi/linuxjiao-cheng/chang-yong-ming-ling.md)
