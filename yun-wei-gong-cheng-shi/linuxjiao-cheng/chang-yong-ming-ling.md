@@ -2,9 +2,9 @@
 
 | 功能 | 命令 |
 | :--- | :--- |
-| ssh root@118.24.238.82 | 远程登录linux服务器 |
-| mkdir test | 新建test文件夹 |
-| mv a b c d | 将abc三个文件移动到d文件夹 |
+| 远程登录linux服务器 | ssh root@118.24.238.82 |
+| 新建test文件夹 | mkdir test |
+| 将abc三个文件移动到d文件夹 | mv a b c d |
 | 创建text.txt文件 | touch text.txt |
 | 删除文件 | rm text.txt |
 | 强制删除某个目录及其子目录 | rm -rf testdir/ |
