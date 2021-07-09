@@ -7,6 +7,7 @@
 | 将abc三个文件移动到d文件夹 | mv a b c d |
 | 创建text.txt文件 | touch text.txt |
 | 删除文件 | rm text.txt |
+| 查找名字为docker.service的所有文件 | find / -name docker.service |
 | 强制删除某个目录及其子目录 | rm -rf testdir/ |
 | 将test1目录复制到test2目录 | cp -r /mydata/tes1 /mydata/test2 |
 | 压缩与解压 | tar |

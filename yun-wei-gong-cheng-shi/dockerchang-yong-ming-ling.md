@@ -17,9 +17,9 @@
 | 查看帮助 | docker --help |
 | 拉取并运行 nginx 网页服务器，并命名为 webserver | docker run --detach --publish 80:80 --name webserver nginx |
 | 进入运行MySQL的docker容器 | docker exec -it mysql /bin/bash |
+| 重新加载配置 | systemctl daemon-reload |
 | 重启docker | systemctl restart docker |
 | 清除没有使用的无效镜像 | docker image prune |
-| 重新加载配置 | systemctl daemon-reload |
 | 部署禅道 | sudo docker pull easysoft/zentao:15.0.3 |
 
 
