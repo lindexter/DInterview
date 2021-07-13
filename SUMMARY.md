@@ -175,6 +175,7 @@
     * [Docker安装与使用](yun-wei-gong-cheng-shi/dockrong-qi-shi-yong-yu-jin-jie.md)
     * [Docker下禅道部署](yun-wei-gong-cheng-shi/dockerxia-shan-dao-bu-shu.md)
     * [Docker下修改mysql配置文件](yun-wei-gong-cheng-shi/dockerxia-xiu-gai-mysql-pei-zhi-wen-jian.md)
+    * [Linux中清空docker容器日志](yun-wei-gong-cheng-shi/linuxzhong-qing-kong-docker-rong-qi-ri-zhi.md)
   * [翻墙教程](yun-wei-gong-cheng-shi/fan-qiang-jiao-cheng.md)
     * [IOS安装蓝灯教程](yun-wei-gong-cheng-shi/iosan-zhuang-lan-deng-jiao-cheng.md)
   * [腾讯云服务器教程](yun-wei-gong-cheng-shi/teng-xun-yun-fu-wu-qi-jiao-cheng.md)
