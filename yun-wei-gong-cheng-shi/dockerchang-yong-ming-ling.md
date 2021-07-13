@@ -10,6 +10,7 @@
 | 进入容器-3 | docker exec -it 容器的name bash |
 | 查看docker的版本 | docker --version |
 | 退出容器 | exit |
+| 查看容器的日志 | docker logs 容器 |
 | 查看docker-compose的版本 | docker-compose --version |
 | 查看已下载的镜像 | docker image ls |
 | 查看当前正在运行的容器 | docker ps |
