@@ -24,6 +24,9 @@ elasticsearch-plugin install [https://github.com/medcl/elasticsearch-analysis-ik
 See 'docker run --help'.
 docker必需开启远程管理访问的功能，但是又不能直接开放2375会有安全问题，需要添加认证证书
 
+#### 出现类似redis服务器超时问题
+重启服务器，延长redis的timeout时间
+
 
 
 
