@@ -97,8 +97,9 @@
     * [x5WebView常见问题集合](yi-dong-jia-gou-shi/tao-ke-kai-fa-ji-zhu/x5webviewchang-jian-wen-ti-ji-he.md)
   * 签名发布技术
     * [常用命令](yi-dong-jia-gou-shi/chang-yong-ming-ling.md)
-  * IOS架构师
+  * [IOS架构师](yi-dong-jia-gou-shi/iosjia-gou-shi.md)
     * [IOS开发入门--Swift](yi-dong-jia-gou-shi/ioskai-fa-ru-95e8-swift.md)
+    * [常用命令](yi-dong-jia-gou-shi/chang-yong-ming-ling.md)
 * [服务器后端开发](服务器开发.md)
   * [基础技术](服务器开发/ji-chu-ji-zhu.md)
     * [Hook技术](服务器开发/ji-chu-ji-zhu/hook-ji-zhu.md)
