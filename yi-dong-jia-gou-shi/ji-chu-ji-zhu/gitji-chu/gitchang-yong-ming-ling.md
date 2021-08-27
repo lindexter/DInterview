@@ -31,7 +31,7 @@
 | git merge master | 合并master到当前分支 |
 | git branch --set-upstream-to=origin/master develop  | 为develop分支设置远程关联分支origin主机上的master |
 | git checkout -b dev origin/dev | 在origin路径下创建新分支dev |
-|  |  |
+| git config --global http.sslBackend "openssl"  | 设置全局的配置参数sslbackend为'openssl' |
 |  |  |
 |  |  |
 |  |  |
