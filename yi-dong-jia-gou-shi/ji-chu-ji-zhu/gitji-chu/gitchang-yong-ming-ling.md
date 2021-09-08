@@ -5,6 +5,7 @@
 | git init | git初始化 |
 | git add -A | 所有修改文件添加到git中 |
 | git commit -m "初始化版本" | 提交代码和注释到本地仓库 |
+| git push | 做完add和commit之后直接推送到远程默认主机的分支上 |
 | git remote -v | 查看远程仓库 |
 | git remote rm origin | 删除远程仓库 |
 | git remote add \[name\] \[url\] | 添加远程仓库 |
