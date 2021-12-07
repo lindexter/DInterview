@@ -95,7 +95,7 @@
   * [套壳开发技术](yi-dong-jia-gou-shi/tao-ke-kai-fa-ji-zhu.md)
     * [在H5Platform平台上快速配置module](yi-dong-jia-gou-shi/tao-ke-kai-fa-ji-zhu/webviewyu-h5-jiao-hu-de-jie-kou-wen-dang.md)
     * [x5WebView常见问题集合](yi-dong-jia-gou-shi/tao-ke-kai-fa-ji-zhu/x5webviewchang-jian-wen-ti-ji-he.md)
-  * 签名发布技术
+  * [签名发布技术](yi-dong-jia-gou-shi/qian-ming-fa-bu-ji-zhu.md)
     * [常用命令](yi-dong-jia-gou-shi/chang-yong-ming-ling.md)
   * [IOS架构师](yi-dong-jia-gou-shi/iosjia-gou-shi.md)
     * [IOS开发入门--Swift](yi-dong-jia-gou-shi/ioskai-fa-ru-95e8-swift.md)
