@@ -102,7 +102,7 @@
     * [常用命令](yi-dong-jia-gou-shi/chang-yong-ming-ling.md)
     * [Xcode快捷键教程](yi-dong-jia-gou-shi/xcodekuai-jie-jian-jiao-cheng.md)
     * [Xcode 添加复制行快捷键](yi-dong-jia-gou-shi/xcode-tian-jia-fu-zhi-xing-kuai-jie-jian.md)
-* [服务器后端开发](服务器开发.md)
+* [服务器架构师](服务器开发.md)
   * [基础技术](服务器开发/ji-chu-ji-zhu.md)
     * [Hook技术](服务器开发/ji-chu-ji-zhu/hook-ji-zhu.md)
     * [ELK技术栈](服务器开发/ji-chu-ji-zhu/elkji-zhu-zhan.md)
